@@ -79,6 +79,6 @@ const negInf = -Infinity
 - [[boolean]] —— 与之互不相同的取值类型
 - [[string]] —— 字符串 ↔ 数字的转换是高频操作
 - [[enum]] —— 数字枚举底层就是 `number`
-- [[README|类型笔记总览]]
+- [[计算机类/软件测试/README|类型笔记总览]]
 
 参考：TypeScript 官方手册 —— Everyday Types / Numeric Literal Types；MDN —— Number / BigInt

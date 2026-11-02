@@ -81,6 +81,6 @@ type Margin = `margin-${Side}`         // 'margin-left' | 'margin-right'
 - [[enum]] —— 字符串枚举与字面量联合的取舍
 - [[number]] —— 字符串 ↔ 数字转换
 - [[boolean]] —— 状态表达的另一条路
-- [[README|类型笔记总览]]
+- [[计算机类/软件测试/README|类型笔记总览]]
 
 参考：TypeScript 官方手册 —— Everyday Types / Template Literal Types

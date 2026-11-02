@@ -9,7 +9,7 @@ This note is maintained by the Explorer Order Editor plugin. It stores the manua
   "杂记": ["img","PPT制作思路.md","”什么是github“英语演讲.md","03_思想汇报_2026-10-23.md","02_思想汇报_2026-09-24.md","01_入党申请书_2026-09-21.md","月份的英语表达.md","数据库系统概论_习题1_参考答案 1.md","简历-徐源振-涪陵家教.md","涪陵家教面试.md","浅色模式还是深色模式对眼睛好.md","学车.md","周末需要带的东西.md","this is onedrive test.md","navicat.md","github edu verify.md","douyin-sparkflow.md","AI使用情况说明表-模板.md","ai.md"],
   "英语": ["单词学习","职场英语写作","WORD.md","PHASE.md"],
   "英语/单词学习": ["E26-10-28.md","E26-10-19.md","E26-10-18.md","E26-10-17.md","E26-10-15.md","E26-10-1.md","E26-9-30.md","E26-9-29.md","E26-9-21.md","E26-9-20.md","E26-9-19.md","E26-9-17.md","E26-9-9.md","E26-9-18.md","E26-9-16.md","E26-8-7.md","E26-8-11.md","E26-8-10.md"],
-  "计算机类": ["Linux","计算机杂学","计算机网络","计算机操作系统","计算机组成原理","计算机工具类","数据结构","软件测试","数据库","前端项目分析","Java","vue3","Three.js","TypeScript","JavaScript"],
+  "计算机类": ["Linux","计算机杂学","计算机网络","计算机操作系统","计算机组成原理","计算机工具类","数据结构","数据库","软件测试","前端项目分析","Java","vue3","Three.js","TypeScript","JavaScript","JSGithub"],
   "计算机类/Java": ["00-Java学习路线.md","01-基础语法","02-类与对象","03-继承与多态","04-关键字与修饰符","05-异常处理","06-集合与泛型","07-IO流","08-多线程与并发","09-Lambda与Stream","10-反射注解与JVM","99-杂项","易错点","images"],
   "计算机类/Java/02-类与对象/封装": ["getter与setter","封装的意义与作用.md","封装代码示例区.md","常见误区.md"],
   "计算机类/Java/02-类与对象/封装/getter与setter": ["Getter读.md","Setter写.md","在Setter里面做数据检验.md"],

@@ -316,14 +316,14 @@
   },
   "任务/任务完成情况概览.md": {
     "expandedKeys": [],
-    "scroll": 12.237102084361236,
+    "scroll": 7.336025028910609,
     "cursor": {
       "from": {
-        "line": 15,
-        "ch": 0
+        "line": 18,
+        "ch": 10
       },
       "to": {
-        "line": 15,
+        "line": 18,
         "ch": 0
       }
     }
@@ -1072,14 +1072,14 @@
       "item-2-110",
       "item-2-115"
     ],
-    "scroll": 1335.6841614865918,
+    "scroll": 2433.4203046202433,
     "cursor": {
       "from": {
-        "line": 4048,
+        "line": 2132,
         "ch": 0
       },
       "to": {
-        "line": 4048,
+        "line": 2132,
         "ch": 0
       }
     }
@@ -1123,7 +1123,7 @@
       "item-1-0",
       "item-2-7"
     ],
-    "scroll": 121.68324452338662,
+    "scroll": 24.75246102469308,
     "cursor": {
       "from": {
         "line": 0,
@@ -1956,11 +1956,11 @@
     "expandedKeys": [],
     "cursor": {
       "from": {
-        "line": 0,
+        "line": 15,
         "ch": 0
       },
       "to": {
-        "line": 0,
+        "line": 15,
         "ch": 0
       }
     }
@@ -4872,11 +4872,11 @@
   "计算机类/软件测试/key.md": {
     "cursor": {
       "from": {
-        "line": 4,
+        "line": 12,
         "ch": 0
       },
       "to": {
-        "line": 4,
+        "line": 12,
         "ch": 0
       }
     },
@@ -6169,16 +6169,16 @@
   "任务/每周安排/26-w8.md": {
     "cursor": {
       "from": {
-        "line": 21,
-        "ch": 18
+        "line": 27,
+        "ch": 28
       },
       "to": {
-        "line": 21,
-        "ch": 18
+        "line": 27,
+        "ch": 28
       }
     },
     "expandedKeys": [],
-    "scroll": 8.02803881768337
+    "scroll": 8.348274732474339
   },
   "计算机类/vue3/composentsBase/Exp10/Exp10 动态组件.md": {
     "expandedKeys": [
@@ -6342,7 +6342,7 @@
       }
     },
     "expandedKeys": [],
-    "scroll": 25.95493098358932
+    "scroll": 8.460927586330875
   },
   "学校/作业/java/未命名.md": {
     "expandedKeys": [],
@@ -6696,15 +6696,15 @@
       "item-2-5",
       "item-2-12"
     ],
-    "scroll": 22.802085996370103,
+    "scroll": 86.83961696718295,
     "cursor": {
       "from": {
-        "line": 26,
-        "ch": 29
+        "line": 82,
+        "ch": 0
       },
       "to": {
-        "line": 26,
-        "ch": 29
+        "line": 82,
+        "ch": 0
       }
     }
   },
@@ -7127,18 +7127,18 @@
   "计算机类/JavaScript/homework/object.md": {
     "cursor": {
       "from": {
-        "line": 11,
+        "line": 39,
         "ch": 0
       },
       "to": {
-        "line": 11,
+        "line": 39,
         "ch": 0
       }
     },
     "expandedKeys": [
       "item-1-0"
     ],
-    "scroll": 0
+    "scroll": 226.46682898514828
   },
   "计算机类/JavaScript/homework/未命名.md": {
     "expandedKeys": [],
@@ -7157,16 +7157,467 @@
     "expandedKeys": [
       "item-1-0"
     ],
+    "scroll": 381.635147653159,
+    "cursor": {
+      "from": {
+        "line": 45,
+        "ch": 8
+      },
+      "to": {
+        "line": 45,
+        "ch": 8
+      }
+    }
+  },
+  "计算机类/vue3/composentsBase/Exp2/Exp2 子传父 emit.md": {
+    "expandedKeys": [
+      "item-2-0",
+      "item-2-5"
+    ],
     "scroll": 0,
     "cursor": {
       "from": {
+        "line": 139,
+        "ch": 5
+      },
+      "to": {
+        "line": 139,
+        "ch": 9
+      }
+    }
+  },
+  "计算机类/JSGithub/1-js/01-getting-started/1-intro/article.md": {
+    "expandedKeys": [
+      "item-1-0"
+    ],
+    "scroll": 97.91653944020356,
+    "cursor": {
+      "from": {
+        "line": 121,
+        "ch": 89
+      },
+      "to": {
+        "line": 121,
+        "ch": 89
+      }
+    }
+  },
+  "家教/未命名.md": {
+    "expandedKeys": [],
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    }
+  },
+  "家教/定语从句.md": {
+    "expandedKeys": [
+      "item-2-1",
+      "item-2-9",
+      "item-2-15",
+      "item-2-28",
+      "item-2-33",
+      "item-2-37"
+    ],
+    "scroll": 10.323543178095015,
+    "cursor": {
+      "from": {
+        "line": 40,
+        "ch": 0
+      },
+      "to": {
+        "line": 40,
+        "ch": 0
+      }
+    }
+  },
+  "计算机类/计算机工具类/Git/Repository/Git核心区/工作目录.md": {
+    "expandedKeys": []
+  },
+  "计算机类/计算机工具类/Git/Repository/Git核心区/提交.md": {
+    "expandedKeys": []
+  },
+  "软件测试/key.md": {
+    "expandedKeys": []
+  },
+  "计算机类/JSGithub/1-js/01-getting-started/2-manuals-specifications/article.md": {
+    "expandedKeys": [
+      "item-1-0"
+    ],
+    "scroll": 25.312550173936312,
+    "cursor": {
+      "from": {
+        "line": 28,
+        "ch": 0
+      },
+      "to": {
+        "line": 28,
+        "ch": 0
+      }
+    }
+  },
+  "计算机类/JSGithub/1-js/01-getting-started/3-code-editors/article.md": {
+    "expandedKeys": [
+      "item-1-0"
+    ],
+    "cursor": {
+      "from": {
+        "line": 36,
+        "ch": 0
+      },
+      "to": {
+        "line": 36,
+        "ch": 0
+      }
+    },
+    "scroll": 30.06412213740458
+  },
+  "计算机类/JSGithub/1-js/01-getting-started/4-devtools/article.md": {
+    "expandedKeys": [
+      "item-1-0"
+    ],
+    "scroll": 57.39496922665239
+  },
+  "计算机类/JSGithub/1-js/01-getting-started/index.md": {
+    "expandedKeys": [],
+    "cursor": {
+      "from": {
+        "line": 3,
+        "ch": 0
+      },
+      "to": {
+        "line": 3,
+        "ch": 0
+      }
+    }
+  },
+  "计算机类/JSGithub/1-js/02-first-steps/01-hello-world/1-hello-alert/solution.md": {
+    "expandedKeys": []
+  },
+  "计算机类/JSGithub/1-js/02-first-steps/01-hello-world/1-hello-alert/task.md": {
+    "expandedKeys": []
+  },
+  "计算机类/JSGithub/1-js/02-first-steps/01-hello-world/2-hello-alert-ext/solution.md": {
+    "expandedKeys": [],
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 19
+      },
+      "to": {
+        "line": 6,
+        "ch": 19
+      }
+    }
+  },
+  "计算机类/JSGithub/1-js/02-first-steps/01-hello-world/2-hello-alert-ext/task.md": {
+    "expandedKeys": []
+  },
+  "计算机类/JSGithub/1-js/02-first-steps/01-hello-world/article.md": {
+    "expandedKeys": [
+      "item-1-0"
+    ],
+    "scroll": 123.36395348837209,
+    "cursor": {
+      "from": {
+        "line": 94,
+        "ch": 17
+      },
+      "to": {
+        "line": 94,
+        "ch": 17
+      }
+    }
+  },
+  "计算机类/JSGithub/1-js/02-first-steps/02-structure/article.md": {
+    "expandedKeys": [
+      "item-1-0"
+    ],
+    "scroll": 149.60406891578853,
+    "cursor": {
+      "from": {
+        "line": 70,
+        "ch": 22
+      },
+      "to": {
+        "line": 70,
+        "ch": 22
+      }
+    }
+  },
+  "计算机类/JSGithub/1-js/02-first-steps/03-strict-mode/article.md": {
+    "expandedKeys": [
+      "item-1-0"
+    ],
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 141
+      },
+      "to": {
+        "line": 6,
+        "ch": 141
+      }
+    },
+    "scroll": 0
+  },
+  "计算机类/JSGithub/1-js/02-first-steps/04-variables/1-hello-variables/solution.md": {
+    "expandedKeys": []
+  },
+  "计算机类/JSGithub/1-js/02-first-steps/04-variables/1-hello-variables/task.md": {
+    "expandedKeys": []
+  },
+  "计算机类/JSGithub/1-js/02-first-steps/04-variables/2-declare-variables/solution.md": {
+    "expandedKeys": [],
+    "scroll": 0
+  },
+  "计算机类/JSGithub/1-js/02-first-steps/04-variables/3-uppercast-constant/solution.md": {
+    "expandedKeys": []
+  },
+  "计算机类/JSGithub/1-js/02-first-steps/04-variables/article.md": {
+    "expandedKeys": [
+      "item-1-0"
+    ],
+    "scroll": 318.28197674418607
+  },
+  "学校/web蓝桥杯/JS/2.让时钟转起来.md": {
+    "expandedKeys": [
+      "item-1-0",
+      "item-2-3"
+    ],
+    "cursor": {
+      "from": {
         "line": 12,
-        "ch": 88
+        "ch": 0
       },
       "to": {
         "line": 12,
-        "ch": 88
+        "ch": 0
+      }
+    },
+    "scroll": 181.6859375
+  },
+  "学校/web蓝桥杯/JS/3..md": {
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
       }
     }
+  },
+  "学校/web蓝桥杯/其他/字符串API全解.md": {
+    "expandedKeys": [
+      "item-1-0",
+      "item-2-25",
+      "item-2-2",
+      "item-2-69",
+      "item-2-18",
+      "item-2-37"
+    ],
+    "cursor": {
+      "from": {
+        "line": 622,
+        "ch": 0
+      },
+      "to": {
+        "line": 622,
+        "ch": 0
+      }
+    },
+    "scroll": 602.4550837938999
+  },
+  "学校/web蓝桥杯/JS/3.由文本溢出引发的“不友好体验”.md": {
+    "expandedKeys": [
+      "item-1-0",
+      "item-2-2",
+      "item-2-5"
+    ],
+    "cursor": {
+      "from": {
+        "line": 30,
+        "ch": 0
+      },
+      "to": {
+        "line": 30,
+        "ch": 0
+      }
+    },
+    "scroll": 69.54679915705339
+  },
+  "学校/web蓝桥杯/HTML和CSS/5.为图片添加景深效果.md": {
+    "expandedKeys": [
+      "item-1-0"
+    ],
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 0
+      },
+      "to": {
+        "line": 7,
+        "ch": 0
+      }
+    }
+  },
+  "任务/每周安排/26-w9.md": {
+    "cursor": {
+      "from": {
+        "line": 16,
+        "ch": 0
+      },
+      "to": {
+        "line": 16,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [],
+    "scroll": 0
+  },
+  "Excalidraw/未命名.md": {
+    "expandedKeys": []
+  },
+  "Excalidraw/Car_Shopping_UML.md": {
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "家教/试卷/第一次月考/未命名.md": {
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "家教/试卷/第一次月考/试卷分析.md": {
+    "cursor": {
+      "from": {
+        "line": 87,
+        "ch": 18
+      },
+      "to": {
+        "line": 87,
+        "ch": 18
+      }
+    },
+    "expandedKeys": [
+      "item-1-0",
+      "item-2-3",
+      "item-2-12"
+    ],
+    "scroll": 101.28876404494382
+  },
+  "家教/试卷/第一次月考/试卷分析提示词.md": {
+    "scroll": 21.72579395817196,
+    "cursor": {
+      "from": {
+        "line": 161,
+        "ch": 0
+      },
+      "to": {
+        "line": 161,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "README.md": {
+    "scroll": 9.848915989159892,
+    "expandedKeys": [
+      "item-1-0",
+      "item-2-1",
+      "item-2-7",
+      "item-2-10",
+      "item-2-14",
+      "item-2-20",
+      "item-2-24",
+      "item-2-29",
+      "item-2-34",
+      "item-2-40",
+      "item-2-47"
+    ],
+    "cursor": {
+      "from": {
+        "line": 27,
+        "ch": 11
+      },
+      "to": {
+        "line": 27,
+        "ch": 11
+      }
+    }
+  },
+  "家教/试卷/第一次月考/出题内容策略.md": {
+    "cursor": {
+      "from": {
+        "line": 71,
+        "ch": 0
+      },
+      "to": {
+        "line": 71,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-3-9",
+      "item-1-0",
+      "item-2-4"
+    ],
+    "scroll": 58.96592460240438
+  },
+  "家教/试卷/第一次月考/出题完整试卷.md": {
+    "expandedKeys": [],
+    "cursor": {
+      "from": {
+        "line": 123,
+        "ch": 31
+      },
+      "to": {
+        "line": 123,
+        "ch": 31
+      }
+    },
+    "scroll": 111.73562979110943
+  },
+  "家教/试卷/第一次月考/出题完整试卷答案.md": {
+    "cursor": {
+      "from": {
+        "line": 187,
+        "ch": 0
+      },
+      "to": {
+        "line": 187,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-1-2",
+      "item-2-5",
+      "item-2-16",
+      "item-1-13"
+    ],
+    "scroll": 174.8459310320241
   }
 }

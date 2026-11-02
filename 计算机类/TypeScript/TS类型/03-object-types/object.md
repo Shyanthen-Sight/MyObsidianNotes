@@ -95,6 +95,6 @@ let c: Object = 'str'       // ⚠️ Object 接受原始值（被装箱）
 - [[interface]] —— 精确描述对象形状的方式
 - [[array]] / [[tuple]] —— 也都是对象
 - [[any]] / [[unknown]] —— 比它更宽的顶层类型
-- [[README|类型笔记总览]]
+- [[计算机类/软件测试/README|类型笔记总览]]
 
 参考：TypeScript 官方手册 —— `object` vs `{}` vs `Object`；TS 2.2 Release Notes

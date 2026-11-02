@@ -74,6 +74,6 @@ const d = 1 & 1                 // number
 
 - [[number]] —— 与布尔互不相同的数值类型
 - [[string]] —— 字符串字面量联合同样是"收窄状态"的好工具
-- [[README|类型笔记总览]]
+- [[计算机类/软件测试/README|类型笔记总览]]
 
 参考：TypeScript 官方手册 —— Everyday Types / Literal Types

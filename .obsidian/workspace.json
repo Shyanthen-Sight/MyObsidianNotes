@@ -25,22 +25,82 @@
             }
           },
           {
-            "id": "e2a37e1d310f8de8",
+            "id": "03a9f52ce3993b7a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机类/vue3/composentsBase/Exp1/Exp1 父传子 props.md",
+                "file": "家教/试卷/第一次月考/试卷分析提示词.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Exp1 父传子 props"
+              "title": "试卷分析提示词"
+            }
+          },
+          {
+            "id": "2a353fd421527d18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "家教/试卷/第一次月考/试卷分析.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "试卷分析"
+            }
+          },
+          {
+            "id": "a0fa5a57e2b2ad87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "家教/试卷/第一次月考/出题内容策略.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "出题内容策略"
+            }
+          },
+          {
+            "id": "4ad2fc0f3ebbd25e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "家教/试卷/第一次月考/出题完整试卷.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "出题完整试卷"
+            }
+          },
+          {
+            "id": "27f32f4d2f6f1e86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "家教/试卷/第一次月考/出题完整试卷答案.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "出题完整试卷答案"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -89,7 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5
+    "width": 289.5
   },
   "right": {
     "id": "0b4c7c9d21618fd4",
@@ -173,9 +233,49 @@
                     {
                       "tabId": "tab-1793376284220-dgbl1up",
                       "conversationId": "conv-1793376671285-gaofwfhyq"
+                    },
+                    {
+                      "tabId": "tab-1793404075327-96nh38v",
+                      "conversationId": "conv-1793404087514-1p8285ylf"
+                    },
+                    {
+                      "tabId": "tab-1793425486124-wnqbh70",
+                      "conversationId": "conv-1793425612742-js7ny1z1o"
+                    },
+                    {
+                      "tabId": "tab-1793442020795-uq3brij",
+                      "conversationId": "conv-1793442060851-29iq1r30a"
+                    },
+                    {
+                      "tabId": "tab-1793518296320-hi988o4",
+                      "conversationId": "conv-1793518300077-d4vy7p0m3"
+                    },
+                    {
+                      "tabId": "tab-1793518869125-vctn68w",
+                      "conversationId": "conv-1793518876730-58s0sjueh"
+                    },
+                    {
+                      "tabId": "tab-1793523599962-ht7vtx5",
+                      "conversationId": "conv-1793523613159-770f0pkiq"
+                    },
+                    {
+                      "tabId": "tab-1793586446720-jzke0wg",
+                      "conversationId": "conv-1793586565572-e1ohqwpvc"
+                    },
+                    {
+                      "tabId": "tab-1793587304915-3geu7zb",
+                      "conversationId": "conv-1793587329836-xior8v3x9"
+                    },
+                    {
+                      "tabId": "tab-1793614416641-lcv2770",
+                      "conversationId": "conv-1793614451049-0iok3bs7d"
+                    },
+                    {
+                      "tabId": "tab-1793617643742-kxl8ti6",
+                      "conversationId": "conv-1793617654860-41phpe3wa"
                     }
                   ],
-                  "activeTabId": "tab-1793376284220-dgbl1up"
+                  "activeTabId": "tab-1793617643742-kxl8ti6"
                 }
               },
               "icon": "bot",
@@ -187,7 +287,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 378.5
+    "width": 323.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,56 +309,55 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e2a37e1d310f8de8",
+  "active": "674128e64321d8c7",
   "lastOpenFiles": [
-    "计算机类/JavaScript/destructing.md",
-    "计算机类/JavaScript/homework/DOM.md",
-    "计算机类/JavaScript/homework/object.md",
-    "计算机类/JavaScript/work/未命名.md",
-    "计算机类/JavaScript/work",
-    "计算机类/JavaScript/homework",
-    "计算机类/vue3/composentsBase/Exp1/Exp1 父传子 props.md",
+    "家教/试卷/第一次月考/出题完整试卷答案.md",
+    "家教/试卷/第一次月考/出题内容策略.md",
+    "家教/试卷/第一次月考/出题完整试卷.md.tmp.45344.cd78b49fae7f",
     "任务/任务完成情况概览.md",
-    "家教/知识点讲解.md",
-    "家教/知识点讲解.md.tmp.16288.b4a958fd0527",
-    "学校/web蓝桥杯/事项/Echart考点分析.md",
-    "计算机类/数据结构/串/串的模式匹配.md",
-    "学校/课表.md",
-    "计算机类/JavaScript/JSON与LocalStorage.md",
-    "学校/web蓝桥杯/Echarts/4.粒粒皆辛苦.md",
-    "计算机类/JavaScript/JSON与LocalStorage.md.tmp.42936.c70a2cee360b",
-    "DailyNotes/2026-10-30.md",
-    "学校/web蓝桥杯/事项/Ajax考点分析.md",
-    "DailyNotes",
-    "学校/web蓝桥杯/事项/蓝桥杯 Web 竞赛备赛.md",
-    "学校/web蓝桥杯/Echarts/3.商品销量和销售额实时展示看板.md",
-    "学校/web蓝桥杯/事项/Ajax，Axios考点分析.md",
-    "学校/web蓝桥杯/Echarts/1.学生信息统计.md",
-    "学校/web蓝桥杯/Echarts/2.和手机相处的时光.md",
-    "学校/web蓝桥杯/事项",
-    "计算机类/数据库/Mysql/Data Query Language/Join.md",
-    "计算机类/数据库/Mysql/Data Definition Language/视图/创建视图.md",
-    "计算机类/数据库/Mysql/Data Definition Language/视图/删除视图.md",
-    "计算机类/数据库/Mysql/Data Definition Language/视图/查询视图.md",
-    "计算机类/数据库/Mysql/Data Definition Language/视图/修改视图.md",
-    "计算机类/计算机工具类",
-    "计算机类/数据库/Mysql/sql运算符/集合运算符.md",
-    "计算机类/数据库/Mysql/Data Query Language/连接查询/RIGHT JOIN.md",
-    "学校/数据库/课堂",
-    "学校/数据库/力扣题库/1.组合两个表.md.tmp.36600.268e2bd29a43",
-    "学校/数据库/力扣题库",
-    "学校/作业/java/img/类与对象编程练习3-题1-类图.png",
-    "学校/作业/java/img/类与对象编程练习3-题2-类图.png",
-    "学校/课本/离散数学/C4二元关系和函数/Pasted image 20261016090740.png",
-    "杂记/img/2.jpg",
-    "杂记/img/1.jpg",
-    "Excalidraw/Pasted Image 20261012083518_577.png",
+    "家教/试卷/第一次月考/出题完整试卷.md",
+    "家教/试卷/第一次月考/复习巩固卷/试卷二 · 迁移检测卷.md",
+    "家教/试卷/第一次月考/复习巩固卷/试卷一 · 基础巩固卷.md",
+    "家教/试卷/第一次月考/复习巩固卷",
+    "家教/试卷/第一次月考/试卷分析.md",
+    "家教/教辅/巅峰训练-完形填空与阅读理解(八年级)`2026（答案）.pdf",
+    "家教/本学期教材总览.md",
+    "家教/试卷/第一次月考/出题内容策略.md.tmp.45344.2847bf13a881",
+    "家教/试卷/第一次月考/出题内容策略.md.tmp.45344.20a80c34470b",
+    "家教/教辅/巅峰训练-完形填空与阅读理解(八年级)`2026（正文）.pdf",
+    "家教/教辅",
+    "家教/试卷/第一次月考/试卷分析提示词.md",
+    "家教/试卷/第一次月考/出题内容策略.md.tmp.45344.7d7d3c42a10e",
+    "家教/试卷/第一次月考/出题内容策略.md.tmp.45344.f561cbb7ea21",
+    "家教/试卷/第一次月考/出题内容策略.md.tmp.45344.7a60cd66e082",
+    "任务/每周安排/26-w9.md",
+    "README.md",
+    "家教/试卷/第一次月考/试卷原文及错误情况/f43970f40594feee6e6bb171c1c35ff3.jpg",
+    "家教/试卷/第一次月考/试卷原文及错误情况/19474ede7fa2593aed1812b0a5124d3d.jpg",
+    "家教/试卷/第一次月考/试卷原文及错误情况/539686bf2026a3a33ea6de66b8755950.jpg",
+    "家教/试卷/第一次月考/试卷原文及错误情况/3e5f9f92135c085fa14a8eebfbb61dcf.jpg",
+    "Excalidraw/stu_gradeTable_UML.md",
+    "Excalidraw/Shopping_UML.md",
+    "任务/每周安排/26-w8.md",
+    "Excalidraw/未命名.md",
+    "学校/web蓝桥杯/HTML和CSS/5.为图片添加景深效果.md",
+    "学校/web蓝桥杯/JS/3.由文本溢出引发的“不友好体验”.md",
+    "学校/web蓝桥杯/其他/字符串API全解.md",
+    "学校/web蓝桥杯/JS/2.让时钟转起来.md",
+    "计算机类/JSGithub/1-js/02-first-steps/04-variables/3-uppercast-constant/solution.md",
+    "计算机类/JSGithub/1-js/02-first-steps/04-variables/2-declare-variables/solution.md",
+    "计算机类/JSGithub/1-js/02-first-steps/04-variables/1-hello-variables/solution.md",
+    "计算机类/JSGithub/1-js/02-first-steps/04-variables/1-hello-variables/task.md",
+    "计算机类/JSGithub/1-js/02-first-steps/03-strict-mode/article.md",
+    "计算机类/JSGithub/1-js/02-first-steps/02-structure/article.md",
+    "计算机类/JSGithub/1-js/01-getting-started/1-intro/limitations.svg",
+    "计算机类/软件测试/assets/images/tools/zed.png",
+    "计算机类/软件测试/assets/images/tools/zcode.png",
+    "计算机类/软件测试/assets/images/tools/zap.png",
+    "计算机类/软件测试/assets/images/tools/yaak-og.png",
+    "计算机类/软件测试/assets/images/tools/xray-og.png",
     "未命名.canvas",
     "学校/课本/离散数学/未命名.canvas",
-    "学校/离散数学/img/Pasted image 20260924115529.png",
-    "家教/img/微信图片_20260919111137_39_138.jpg",
-    "家教/img/微信图片_20260919111140_42_138.jpg",
-    "家教/img/微信图片_20260919111139_41_138.jpg",
     "Excalidraw/未命名.canvas",
     "未命名 4.canvas",
     "未命名 1.canvas",

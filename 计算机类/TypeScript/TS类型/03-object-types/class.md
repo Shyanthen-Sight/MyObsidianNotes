@@ -110,6 +110,6 @@ class Pet implements Named { name = 'cat' }
 - [[enum]] —— 类中常配合使用的具名常量
 - [[array]] —— 数组也是对象类型
 - [[解析产物说明]] —— 类编译成 JS 后长什么样
-- [[README|类型笔记总览]]
+- [[计算机类/软件测试/README|类型笔记总览]]
 
 参考：TypeScript 官方手册 —— Classes / Abstract Classes / Parameter Properties

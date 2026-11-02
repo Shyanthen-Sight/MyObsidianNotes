@@ -88,6 +88,6 @@ function upper(s: string | null): string {
 - [[undefined]] —— 与之成对的"缺席"值
 - [[never]] —— 底层类型，与 `null` 无赋值关系
 - [[interface]] —— `T | null` 常写进对象字段
-- [[README|类型笔记总览]]
+- [[计算机类/软件测试/README|类型笔记总览]]
 
 参考：TypeScript 官方手册 —— `strictNullChecks`；MDN —— null

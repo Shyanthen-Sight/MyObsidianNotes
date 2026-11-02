@@ -79,6 +79,6 @@ function save(): Promise<void> {
 
 - [[undefined]] —— `void` 变量实际持有的值
 - [[never]] —— "永不返回"，与 `void` 相对
-- [[README|类型笔记总览]]
+- [[计算机类/软件测试/README|类型笔记总览]]
 
 参考：TypeScript 官方手册 —— Function Types / Returning void

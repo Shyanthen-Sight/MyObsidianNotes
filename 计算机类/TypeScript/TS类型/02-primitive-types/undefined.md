@@ -87,6 +87,6 @@ const v = maybe ?? 'fallback'                      // ?? 只在 null/undefined �
 - [[null]] —— 另一个空值类型，与它常一起出现
 - [[void]] —— 只能持 `undefined` 的"无返回"标记
 - [[interface]] —— 可选属性的写法
-- [[README|类型笔记总览]]
+- [[计算机类/软件测试/README|类型笔记总览]]
 
 参考：TypeScript 官方手册 —— Everyday Types / `strictNullChecks`；MDN —— undefined

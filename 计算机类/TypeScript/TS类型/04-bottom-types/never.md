@@ -106,6 +106,6 @@ type A = Exclude<'a' | 'b' | 'c', 'a'>    // 'b' | 'c'
 - [[any]] / [[unknown]] —— 与之相对的顶层类型（最宽的端点）
 - [[void]] —— 常被混淆的"无返回"类型
 - [[string]] —— 联合类型的穷尽检查示例
-- [[README|类型笔记总览]]
+- [[计算机类/软件测试/README|类型笔记总览]]
 
 参考：TypeScript 官方手册 —— `never` / Exhaustiveness Checking / Conditional Types

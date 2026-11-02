@@ -82,6 +82,6 @@ const l = Level.High      // 产物里直接变成 1
 - [[number]] —— 数字枚举的底层类型
 - [[class]] —— 另一种"值 + 类型"双重身份
 - [[解析产物说明]] —— 枚举编译后生成的运行时代码
-- [[README|类型笔记总览]]
+- [[计算机类/软件测试/README|类型笔记总览]]
 
 参考：TypeScript 官方手册 —— Enums / const enums；TS 手册 —— `isolatedModules`

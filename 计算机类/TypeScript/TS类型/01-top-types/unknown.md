@@ -106,6 +106,6 @@ user.name
 
 - [[any]] —— 关掉检查的版本，`unknown` 的风险对照
 - [[never]] —— 底层类型，`unknown` 的"反极"
-- [[README|类型笔记总览]]
+- [[计算机类/软件测试/README|类型笔记总览]]
 
 参考：TypeScript 官方手册 —— `unknown` / Type Guards；TS 4.4 Release Notes —— `useUnknownInCatchVariables`

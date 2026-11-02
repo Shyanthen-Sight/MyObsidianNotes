@@ -95,6 +95,6 @@ const name = data.user.name   // 全程无检查，user 不存在也要运行时
 
 - [[unknown]] —— 类型安全的"任何值"，`any` 的首选替代
 - [[never]] —— 与之相对的底层类型
-- [[README|类型笔记总览]]
+- [[计算机类/软件测试/README|类型笔记总览]]
 
 参考：TypeScript 官方手册 —— `any` / Type Checking JavaScript Files

@@ -94,6 +94,6 @@ const [lo, hi] = minMax([3, 1, 2])   // 解构，类型精确
 - [[array]] —— 元组的"父类型"，可变长同类型
 - [[计算机类/TypeScript/TS类型/03-object-types/object]] —— 元组所属的大类
 - [[interface]] —— 表达"固定结构"的另一条路
-- [[README|类型笔记总览]]
+- [[计算机类/软件测试/README|类型笔记总览]]
 
 参考：TypeScript 官方手册 —— Tuples / Variadic Tuple Types

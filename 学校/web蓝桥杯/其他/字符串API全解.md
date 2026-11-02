@@ -56,25 +56,25 @@ tags:
 
 ### 按“我想做什么”选 API
 
-| 需求 | 用哪个 |
-| --- | --- |
-| 判断“有没有” | `includes` |
-| 判断开头 / 结尾 | `startsWith` / `endsWith` |
-| 找子串位置 | `indexOf` / `lastIndexOf` |
-| 用正则找位置 | `search` |
-| 取一段字符 | `slice` |
-| 按分隔符拆分 | `split` |
-| 拆成单个字符 | `split("")` 或 `[...str]` |
-| 替换第一处 | `replace` |
-| 替换全部 | `replaceAll` 或 `replace(/x/g)` |
-| 提取匹配和分组 | `match` / `matchAll` |
-| 去首尾空白 | `trim` / `trimStart` / `trimEnd` |
-| 大小写转换 | `toUpperCase` / `toLowerCase` |
-| 补齐位数 | `padStart` / `padEnd` |
-| 重复拼接 | `repeat` |
-| 中英文 / 数字排序比较 | `localeCompare` |
-| 下标取字符（支持负数） | `at` |
-| Unicode 码点 | `codePointAt` / `String.fromCodePoint` |
+| 需求           | 用哪个                                    |
+| ------------ | -------------------------------------- |
+| 判断“有没有”      | `includes`                             |
+| 判断开头 / 结尾    | `startsWith` / `endsWith`              |
+| 找子串位置        | `indexOf` / `lastIndexOf`              |
+| 用正则找位置       | `search`                               |
+| 取一段字符        | `slice`                                |
+| 按分隔符拆分       | `split`                                |
+| 拆成单个字符       | `split("")` 或 `[...str]`               |
+| 替换第一处        | `replace`                              |
+| 替换全部         | `replaceAll` 或 `replace(/x/g)`         |
+| 提取匹配和分组      | `match` / `matchAll`                   |
+| 去首尾空白        | `trim` / `trimStart` / `trimEnd`       |
+| 大小写转换        | `toUpperCase` / `toLowerCase`          |
+| 补齐位数         | `padStart` / `padEnd`                  |
+| 重复拼接         | `repeat`                               |
+| 中英文 / 数字排序比较 | `localeCompare`                        |
+| 下标取字符（支持负数）  | `at`                                   |
+| Unicode 码点   | `codePointAt` / `String.fromCodePoint` |
 
 ### 六个最常用的组合
 
