@@ -25,82 +25,52 @@
             }
           },
           {
-            "id": "03a9f52ce3993b7a",
+            "id": "a5820aba15888822",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "家教/试卷/第一次月考/试卷分析提示词.md",
+                "file": "计算机类/Mysql/进阶函数与功能/日期与时间.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "试卷分析提示词"
+              "title": "日期与时间"
             }
           },
           {
-            "id": "2a353fd421527d18",
+            "id": "9533faeea84447a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "家教/试卷/第一次月考/试卷分析.md",
+                "file": "计算机类/Mysql/进阶函数与功能/数值函数.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "试卷分析"
+              "title": "数值函数"
             }
           },
           {
-            "id": "a0fa5a57e2b2ad87",
+            "id": "8b003a9ac0c3cab2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "家教/试卷/第一次月考/出题内容策略.md",
+                "file": "计算机类/Mysql/进阶函数与功能/条件.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "出题内容策略"
-            }
-          },
-          {
-            "id": "4ad2fc0f3ebbd25e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "家教/试卷/第一次月考/出题完整试卷.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "出题完整试卷"
-            }
-          },
-          {
-            "id": "27f32f4d2f6f1e86",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "家教/试卷/第一次月考/出题完整试卷答案.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "出题完整试卷答案"
+              "title": "条件"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -149,7 +119,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5
+    "width": 320.16668701171875
   },
   "right": {
     "id": "0b4c7c9d21618fd4",
@@ -311,11 +281,18 @@
   },
   "active": "674128e64321d8c7",
   "lastOpenFiles": [
+    "计算机类/Mysql/进阶函数与功能/数值函数.md",
+    "计算机类/Mysql/进阶函数与功能/日期与时间.md",
     "家教/试卷/第一次月考/出题完整试卷答案.md",
-    "家教/试卷/第一次月考/出题内容策略.md",
-    "家教/试卷/第一次月考/出题完整试卷.md.tmp.45344.cd78b49fae7f",
+    "家教/试卷/第一次月考/试卷二 · 迁移检测卷.pdf",
+    "家教/试卷/第一次月考/试卷一 · 基础巩固卷.pdf",
+    "任务/每周安排/26-w9.md",
+    "家教/试卷/第一次月考/试卷二 · 迁移检测卷.docx",
+    "家教/试卷/第一次月考/试卷一 · 基础巩固卷.docx",
     "任务/任务完成情况概览.md",
     "家教/试卷/第一次月考/出题完整试卷.md",
+    "家教/试卷/第一次月考/出题内容策略.md",
+    "家教/试卷/第一次月考/出题完整试卷.md.tmp.45344.cd78b49fae7f",
     "家教/试卷/第一次月考/复习巩固卷/试卷二 · 迁移检测卷.md",
     "家教/试卷/第一次月考/复习巩固卷/试卷一 · 基础巩固卷.md",
     "家教/试卷/第一次月考/复习巩固卷",
@@ -325,12 +302,7 @@
     "家教/试卷/第一次月考/出题内容策略.md.tmp.45344.2847bf13a881",
     "家教/试卷/第一次月考/出题内容策略.md.tmp.45344.20a80c34470b",
     "家教/教辅/巅峰训练-完形填空与阅读理解(八年级)`2026（正文）.pdf",
-    "家教/教辅",
     "家教/试卷/第一次月考/试卷分析提示词.md",
-    "家教/试卷/第一次月考/出题内容策略.md.tmp.45344.7d7d3c42a10e",
-    "家教/试卷/第一次月考/出题内容策略.md.tmp.45344.f561cbb7ea21",
-    "家教/试卷/第一次月考/出题内容策略.md.tmp.45344.7a60cd66e082",
-    "任务/每周安排/26-w9.md",
     "README.md",
     "家教/试卷/第一次月考/试卷原文及错误情况/f43970f40594feee6e6bb171c1c35ff3.jpg",
     "家教/试卷/第一次月考/试卷原文及错误情况/19474ede7fa2593aed1812b0a5124d3d.jpg",
@@ -349,7 +321,6 @@
     "计算机类/JSGithub/1-js/02-first-steps/04-variables/1-hello-variables/solution.md",
     "计算机类/JSGithub/1-js/02-first-steps/04-variables/1-hello-variables/task.md",
     "计算机类/JSGithub/1-js/02-first-steps/03-strict-mode/article.md",
-    "计算机类/JSGithub/1-js/02-first-steps/02-structure/article.md",
     "计算机类/JSGithub/1-js/01-getting-started/1-intro/limitations.svg",
     "计算机类/软件测试/assets/images/tools/zed.png",
     "计算机类/软件测试/assets/images/tools/zcode.png",
