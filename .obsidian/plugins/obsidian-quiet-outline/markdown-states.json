@@ -316,7 +316,7 @@
   },
   "任务/任务完成情况概览.md": {
     "expandedKeys": [],
-    "scroll": 3.9519704433497536,
+    "scroll": 6.581846893730036,
     "cursor": {
       "from": {
         "line": 18,
@@ -7471,16 +7471,16 @@
   "任务/每周安排/26-w9.md": {
     "cursor": {
       "from": {
-        "line": 23,
-        "ch": 18
+        "line": 25,
+        "ch": 14
       },
       "to": {
-        "line": 23,
-        "ch": 18
+        "line": 25,
+        "ch": 6
       }
     },
     "expandedKeys": [],
-    "scroll": 0
+    "scroll": 2.7027027027027026
   },
   "Excalidraw/未命名.md": {
     "expandedKeys": []
@@ -7772,5 +7772,18 @@
         "ch": 50
       }
     }
+  },
+  "杂记/codex.md": {
+    "cursor": {
+      "from": {
+        "line": 5,
+        "ch": 0
+      },
+      "to": {
+        "line": 5,
+        "ch": 0
+      }
+    },
+    "scroll": 0
   }
 }
