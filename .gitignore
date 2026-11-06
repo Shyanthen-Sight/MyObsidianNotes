@@ -1,4 +1,42 @@
-书籍/
+# ============================================================
+# Obsidian 仓库 .gitignore
+# 原则：笔记与插件代码全部纳入版本控制（便于灾难恢复），
+#       只排除「每台机器不同 / 会自动变化 / 带隐私」的文件。
+# ============================================================
+
+# ---------- Obsidian 本地界面状态 ----------
+# 工作区布局与打开的标签因人而异，且坚果云同步时极易产生冲突
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspaces.json
+.obsidian/workspace-*.json
+.obsidian/*.json.bak
+.obsidian/cache/
+
+# ---------- 坚果云同步冲突产物 ----------
+# 例如：workspace-冲突-Shyanthen_Win11.json
+#       markdown-states-冲突1428-Shyanthen_Win11.json
+# 注意：不能写成 *冲突*，否则会误伤「冲突处理.md」这类正常笔记
+*-冲突-*
+*冲突[0-9]*-*
+*.conflict
+
+# ---------- 坚果云官方同步插件的运行时缓存 ----------
+.agents/
+.obsidian/plugins/nutstore-sync/
+
+# ---------- AI 会话记录（体积会持续增长，且含私人对话） ----------
+.claudian/sessions/
+.claude/settings.local.json
+
+# ---------- 系统 / 临时文件 ----------
+Thumbs.db
+desktop.ini
+.DS_Store
+~$*
+*.tmp
+*.swp
+*.log
+
+# ---------- Obsidian 回收站 ----------
 .trash/
-.obsidian/trash/
-.obsidian/backup/

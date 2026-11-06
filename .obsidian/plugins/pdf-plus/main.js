@@ -157,5 +157,3 @@ crypto-js/mode-ctr-gladman.js:
    * Jan Hruby jhruby.web@gmail.com
    *)
 */
-
-/* nosourcemap */

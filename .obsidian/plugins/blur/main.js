@@ -244,5 +244,3 @@ var BlurSettingTab = class extends import_obsidian.PluginSettingTab {
     ];
   }
 };
-
-/* nosourcemap */

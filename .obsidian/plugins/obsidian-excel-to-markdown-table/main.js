@@ -226,5 +226,3 @@ var ExcelToMarkdownTablePlugin = class extends import_obsidian.Plugin {
     this.app.workspace.off("editor-paste", this.pasteHandler);
   }
 };
-
-/* nosourcemap */

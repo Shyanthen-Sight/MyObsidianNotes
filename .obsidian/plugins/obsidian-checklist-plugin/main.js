@@ -13138,5 +13138,3 @@ var TagPicker = class extends import_obsidian7.FuzzySuggestModal {
 markdown-it/dist/markdown-it.mjs:
   (*! markdown-it 15.0.2 https://github.com/markdown-it/markdown-it @license MIT *)
 */
-
-/* nosourcemap */

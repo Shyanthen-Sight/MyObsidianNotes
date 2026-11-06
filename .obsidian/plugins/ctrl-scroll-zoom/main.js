@@ -4,20 +4,24 @@
  * Ctrl+Scroll Zoom — Obsidian plugin
  * Ctrl + wheel up   -> zoom in
  * Ctrl + wheel down -> zoom out
- * Zooms the whole app via Electron's webFrame zoom factor (UI + note text),
- * like Ctrl+wheel in a browser. Trackpad pinch also triggers it because the
- * browser reports pinch as a Ctrl+wheel event.
+ * By default zooms only the open note's content via CSS zoom — text and
+ * images together — while the ribbon, sidebars and tab bar stay at 100%.
+ * A "Whole app" target (Electron webFrame zoom, like Ctrl+wheel in a
+ * browser) remains available in settings. Trackpad pinch also triggers it
+ * because the browser reports pinch as a Ctrl+wheel event.
  */
 
 const { Plugin, PluginSettingTab, Setting } = require('obsidian');
 
 const DEFAULT_SETTINGS = {
-  zoomTarget: 'app', // 'app' (webFrame, zooms all UI) | 'content' (CSS zoom, note only)
+  zoomTarget: 'content', // 'content' (CSS zoom, note only) | 'app' (webFrame, zooms all UI)
+  migratedContentDefault: true, // v1.4.0 default change applied (see loadSettings)
   step: 0.1, // zoom change per wheel notch, applied multiplicatively (0.1 = ×1.1)
   minZoom: 0.3, // lower clamp for the zoom factor
   maxZoom: 5.0, // upper clamp for the zoom factor
   modifier: 'ctrl', // 'ctrl' | 'meta' | 'alt'
   passThroughViews: true, // let Canvas/Excalidraw/PDF keep their own Ctrl+wheel zoom
+  zoomFigures: true, // content mode: let images grow past the pane edge (pan to see the rest)
   showStatusBar: true,
   zoomFactor: 1.0, // last applied zoom, restored on load
 };
@@ -159,6 +163,7 @@ module.exports = class CtrlScrollZoomPlugin extends Plugin {
       const body = win.document && win.document.body;
       if (body) {
         body.classList.remove('csz-content-zoom');
+        body.classList.remove('csz-zoom-figures');
         body.style.removeProperty('--csz-zoom');
       }
     }
@@ -326,6 +331,13 @@ module.exports = class CtrlScrollZoomPlugin extends Plugin {
   restoreZoom() {
     const z = this.clamp(this.settings.zoomFactor);
     if (this.settings.zoomTarget === 'content') {
+      // One-time migration from whole-app mode: return the UI to 100% before
+      // the content zoom takes over the saved factor.
+      if (this._undoAppZoom) {
+        this._undoAppZoom = false;
+        if (this.webFrame) this.applyZoom(1.0);
+        this.debouncedSave();
+      }
       this.renderContentZoom(z);
     } else if (this.webFrame) {
       this.applyZoom(z);
@@ -341,6 +353,7 @@ module.exports = class CtrlScrollZoomPlugin extends Plugin {
     const body = win.document && win.document.body;
     if (!body) return;
     body.classList.add('csz-content-zoom');
+    body.classList.toggle('csz-zoom-figures', !!this.settings.zoomFigures);
     body.style.setProperty('--csz-zoom', String(z));
   }
 
@@ -510,7 +523,17 @@ module.exports = class CtrlScrollZoomPlugin extends Plugin {
   }
 
   async loadSettings() {
-    this.settings = Object.assign({}, DEFAULT_SETTINGS, await this.loadData());
+    const data = (await this.loadData()) || {};
+    this.settings = Object.assign({}, DEFAULT_SETTINGS, data);
+    // v1.4.0 changed the default zoom target from 'app' to 'content'. Older
+    // versions saved the whole settings object on every change, so a stored
+    // 'app' is usually the old default rather than a deliberate choice;
+    // switch it once. Whole-app users can switch back in settings, and the
+    // flag (persisted with the next save) stops this from repeating.
+    if (data.zoomTarget === 'app' && !data.migratedContentDefault) {
+      this.settings.zoomTarget = 'content';
+      this._undoAppZoom = true;
+    }
   }
 
   async saveSettings() {
@@ -531,12 +554,12 @@ class CtrlScrollZoomSettingTab extends PluginSettingTab {
     new Setting(containerEl)
       .setName('Zoom target')
       .setDesc(
-        'Whole app zooms everything (UI included), like a browser. Note content only keeps the ribbon, sidebars and tab bar at 100% and zooms just the open note; PDFs keep their own built-in Ctrl+scroll zoom there. Switching resets the zoom to 100%.'
+        'Note content only (default) keeps the ribbon, sidebars and tab bar at 100% and zooms just the open note (text and images); PDFs keep their own built-in Ctrl+scroll zoom there. Whole app zooms everything (UI included), like a browser. Switching resets the zoom to 100%.'
       )
       .addDropdown((d) =>
         d
-          .addOption('app', 'Whole app')
           .addOption('content', 'Note content only')
+          .addOption('app', 'Whole app')
           .setValue(this.plugin.settings.zoomTarget)
           .onChange(async (v) => {
             if (v === this.plugin.settings.zoomTarget) return;
@@ -623,6 +646,21 @@ class CtrlScrollZoomSettingTab extends PluginSettingTab {
       );
 
     new Setting(containerEl)
+      .setName('Let figures grow past the pane edge')
+      .setDesc(
+        'Note content mode only. Images normally stop growing once they fill the pane; with this on they keep scaling with the zoom and can be panned with the scrollbar under the figure. At 100% nothing changes.'
+      )
+      .addToggle((tg) =>
+        tg.setValue(this.plugin.settings.zoomFigures).onChange(async (v) => {
+          this.plugin.settings.zoomFigures = v;
+          await this.plugin.saveSettings();
+          if (this.plugin.settings.zoomTarget === 'content') {
+            this.plugin.renderContentZoom(this.plugin.settings.zoomFactor);
+          }
+        })
+      );
+
+    new Setting(containerEl)
       .setName('Show zoom % in status bar')
       .setDesc('Display the current zoom level at the bottom; click it to reset to 100%.')
       .addToggle((tg) =>
@@ -641,7 +679,5 @@ class CtrlScrollZoomSettingTab extends PluginSettingTab {
       );
   }
 }
-
-/* nosourcemap */
 
 /* nosourcemap */

@@ -1367,4 +1367,3 @@ monaco-editor/esm/vs/language/json/monaco.contribution.js:
    * https://github.com/microsoft/monaco-editor/blob/main/LICENSE.txt
    *-----------------------------------------------------------------------------*)
 */
-/* nosourcemap */

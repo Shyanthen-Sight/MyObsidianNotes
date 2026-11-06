@@ -220,7 +220,7 @@
     "scroll": 234.64184793227125
   },
   "学校/课表.md": {
-    "scroll": 6.687898089171974,
+    "scroll": 0,
     "expandedKeys": [
       "item-1-0"
     ],
@@ -316,14 +316,14 @@
   },
   "任务/任务完成情况概览.md": {
     "expandedKeys": [],
-    "scroll": 6.581846893730036,
+    "scroll": 18.079410430464975,
     "cursor": {
       "from": {
-        "line": 18,
-        "ch": 10
+        "line": 5,
+        "ch": 0
       },
       "to": {
-        "line": 18,
+        "line": 5,
         "ch": 0
       }
     }
@@ -693,7 +693,8 @@
         "line": 6,
         "ch": 0
       }
-    }
+    },
+    "expandedKeys": []
   },
   "英语/单词学习/E26-9-17.md": {
     "cursor": {
@@ -3048,7 +3049,8 @@
     "expandedKeys": []
   },
   "explorer-order-冲突-Shyanthen_Win11.md": {
-    "expandedKeys": []
+    "expandedKeys": [],
+    "scroll": 20.539603172401765
   },
   "计算机类/后端/Java/关键字/this关键字.md": {
     "expandedKeys": [
@@ -3933,7 +3935,7 @@
       "item-2-21",
       "item-2-26"
     ],
-    "scroll": 221.3127844126048
+    "scroll": 221.05605461731943
   },
   "任务/每日任务/2026-10-17.md": {
     "expandedKeys": [],
@@ -6169,16 +6171,16 @@
   "任务/每周安排/26-w8.md": {
     "cursor": {
       "from": {
-        "line": 30,
-        "ch": 32
+        "line": 23,
+        "ch": 0
       },
       "to": {
-        "line": 30,
-        "ch": 32
+        "line": 23,
+        "ch": 0
       }
     },
     "expandedKeys": [],
-    "scroll": 0
+    "scroll": 7.780538302277433
   },
   "计算机类/vue3/composentsBase/Exp10/Exp10 动态组件.md": {
     "expandedKeys": [
@@ -6235,17 +6237,20 @@
     }
   },
   "杂记/未命名 2.md": {
-    "expandedKeys": [],
+    "expandedKeys": [
+      "item-1-0"
+    ],
     "cursor": {
       "from": {
-        "line": 0,
+        "line": 32,
         "ch": 0
       },
       "to": {
-        "line": 0,
+        "line": 32,
         "ch": 0
       }
-    }
+    },
+    "scroll": 13.869828697845369
   },
   "杂记/离散数学C1-C4考试.md": {
     "cursor": {
@@ -6342,7 +6347,7 @@
       }
     },
     "expandedKeys": [],
-    "scroll": 8.460927586330875
+    "scroll": 37.655352480417754
   },
   "学校/作业/java/未命名.md": {
     "expandedKeys": [],
@@ -6361,19 +6366,20 @@
     "expandedKeys": [
       "item-1-0",
       "item-2-3",
-      "item-2-5"
+      "item-2-5",
+      "item-2-14"
     ],
     "cursor": {
       "from": {
-        "line": 0,
-        "ch": 5
+        "line": 4,
+        "ch": 8
       },
       "to": {
-        "line": 0,
-        "ch": 2
+        "line": 4,
+        "ch": 8
       }
     },
-    "scroll": 16.822437174639507
+    "scroll": 91.33881999162539
   },
   "学校/作业/java/类与对象编程练习3.md": {
     "expandedKeys": [
@@ -6521,12 +6527,11 @@
     "expandedKeys": [
       "item-1-0",
       "item-2-2",
-      "item-2-27",
       "item-2-20",
       "item-2-15",
       "item-2-8"
     ],
-    "scroll": 1.647058858051559
+    "scroll": 25.64807549838362
   },
   "计算机类/JavaScript/未命名.md": {
     "expandedKeys": [],
@@ -6656,15 +6661,15 @@
     ],
     "cursor": {
       "from": {
-        "line": 362,
-        "ch": 69
+        "line": 28,
+        "ch": 0
       },
       "to": {
-        "line": 362,
-        "ch": 69
+        "line": 28,
+        "ch": 0
       }
     },
-    "scroll": 341.4497021195451
+    "scroll": 2.6785714285714284
   },
   "计算机类/vue3/composentsBase/其他/defineProps,defineEmits,defineExpose.md": {
     "cursor": {
@@ -7029,14 +7034,14 @@
       "item-2-19",
       "item-2-28"
     ],
-    "scroll": 259.7136094674556,
+    "scroll": 5.405405405405405,
     "cursor": {
       "from": {
-        "line": 448,
+        "line": 21,
         "ch": 0
       },
       "to": {
-        "line": 448,
+        "line": 21,
         "ch": 0
       }
     }
@@ -7400,7 +7405,7 @@
         "ch": 0
       }
     },
-    "scroll": 181.6859375
+    "scroll": 6.750510827849637
   },
   "学校/web蓝桥杯/JS/3..md": {
     "cursor": {
@@ -7471,16 +7476,16 @@
   "任务/每周安排/26-w9.md": {
     "cursor": {
       "from": {
-        "line": 25,
-        "ch": 14
+        "line": 34,
+        "ch": 0
       },
       "to": {
-        "line": 25,
-        "ch": 6
+        "line": 34,
+        "ch": 0
       }
     },
     "expandedKeys": [],
-    "scroll": 2.7027027027027026
+    "scroll": 15.57957393410149
   },
   "Excalidraw/未命名.md": {
     "expandedKeys": []
@@ -7544,7 +7549,7 @@
     "expandedKeys": []
   },
   "README.md": {
-    "scroll": 9.848915989159892,
+    "scroll": 149.67325592504787,
     "expandedKeys": [
       "item-1-0",
       "item-2-1",
@@ -7761,15 +7766,15 @@
     "expandedKeys": [
       "item-1-0"
     ],
-    "scroll": 84.41908847584443,
+    "scroll": 64.31877440610485,
     "cursor": {
       "from": {
-        "line": 17,
-        "ch": 50
+        "line": 66,
+        "ch": 79
       },
       "to": {
-        "line": 17,
-        "ch": 50
+        "line": 66,
+        "ch": 79
       }
     }
   },
@@ -7785,5 +7790,366 @@
       }
     },
     "scroll": 0
+  },
+  "计算机类/JSGithub/1-js/05-data-types/05-array-methods/article.md": {
+    "expandedKeys": [
+      "item-2-1",
+      "item-1-0",
+      "item-2-6"
+    ],
+    "cursor": {
+      "from": {
+        "line": 223,
+        "ch": 43
+      },
+      "to": {
+        "line": 223,
+        "ch": 43
+      }
+    },
+    "scroll": 222.52424839564733
+  },
+  "计算机类/vue3/Components/组件注册.md": {
+    "expandedKeys": [
+      "item-2-1"
+    ],
+    "scroll": 17.332336564707234,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    }
+  },
+  "计算机类/vue3/Components/引用注册.md": {
+    "expandedKeys": [
+      "item-2-5"
+    ],
+    "scroll": 234.03639417693168,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    }
+  },
+  "杂记/Nutestore.md": {
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 10
+      },
+      "to": {
+        "line": 4,
+        "ch": 10
+      }
+    },
+    "expandedKeys": [],
+    "scroll": 0
+  },
+  "学校/离散数学/离散数学C1-C4考试.md": {
+    "scroll": 489.987866010597,
+    "expandedKeys": [
+      "item-1-11",
+      "item-2-12",
+      "item-1-0",
+      "item-2-5",
+      "item-1-42",
+      "item-2-43",
+      "item-2-50",
+      "item-2-33",
+      "item-2-19",
+      "item-2-26",
+      "item-2-55",
+      "item-2-61"
+    ],
+    "cursor": {
+      "from": {
+        "line": 493,
+        "ch": 21
+      },
+      "to": {
+        "line": 493,
+        "ch": 21
+      }
+    }
+  },
+  "杂记/JD数据说明.md": {
+    "cursor": {
+      "from": {
+        "line": 33,
+        "ch": 66
+      },
+      "to": {
+        "line": 33,
+        "ch": 66
+      }
+    },
+    "scroll": 36.62959644214527,
+    "expandedKeys": [
+      "item-2-1",
+      "item-2-4"
+    ]
+  },
+  "计算机类/Java/03-继承与多态/继承.md": {
+    "expandedKeys": [
+      "item-2-2",
+      "item-2-5",
+      "item-2-12",
+      "item-2-8"
+    ],
+    "scroll": 201.3813720703125,
+    "cursor": {
+      "from": {
+        "line": 68,
+        "ch": 46
+      },
+      "to": {
+        "line": 68,
+        "ch": 46
+      }
+    }
+  },
+  "计算机类/Java/03-继承与多态/父类的构造方法与子类的关系.md": {
+    "expandedKeys": [
+      "item-2-0"
+    ],
+    "scroll": 94.5660869891827,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 0
+      },
+      "to": {
+        "line": 6,
+        "ch": 0
+      }
+    }
+  },
+  "计算机类/Java/03-继承与多态/未命名.md": {
+    "expandedKeys": []
+  },
+  "计算机类/Java/03-继承与多态/重写.md": {
+    "expandedKeys": [
+      "item-2-2",
+      "item-2-25",
+      "item-2-18"
+    ],
+    "cursor": {
+      "from": {
+        "line": 453,
+        "ch": 0
+      },
+      "to": {
+        "line": 453,
+        "ch": 0
+      }
+    },
+    "scroll": 443.87073244496156
+  },
+  "计算机类/Java/02-类与对象/重载/重载.md": {
+    "expandedKeys": [],
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 1,
+        "ch": 0
+      },
+      "to": {
+        "line": 1,
+        "ch": 0
+      }
+    }
+  },
+  "计算机类/Java/02-类与对象/重载.md": {
+    "expandedKeys": [
+      "item-2-3"
+    ],
+    "scroll": 38.52945974845372,
+    "cursor": {
+      "from": {
+        "line": 13,
+        "ch": 0
+      },
+      "to": {
+        "line": 13,
+        "ch": 0
+      }
+    }
+  },
+  "计算机类/Java/04-关键字与修饰符/super关键字.md": {
+    "expandedKeys": [
+      "item-2-1",
+      "item-1-0",
+      "item-2-5"
+    ],
+    "cursor": {
+      "from": {
+        "line": 21,
+        "ch": 0
+      },
+      "to": {
+        "line": 21,
+        "ch": 0
+      }
+    },
+    "scroll": 8.12963791334926
+  },
+  "计算机类/Java/04-关键字与修饰符/final关键字.md": {
+    "expandedKeys": [
+      "item-2-1",
+      "item-1-0",
+      "item-2-3",
+      "item-2-9",
+      "item-2-16"
+    ],
+    "cursor": {
+      "from": {
+        "line": 8,
+        "ch": 112
+      },
+      "to": {
+        "line": 8,
+        "ch": 112
+      }
+    },
+    "scroll": 0
+  },
+  "学校/java/未命名.md": {
+    "expandedKeys": [],
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    }
+  },
+  "学校/java/05-子类与继承-1.md": {
+    "cursor": {
+      "from": {
+        "line": 45,
+        "ch": 6
+      },
+      "to": {
+        "line": 45,
+        "ch": 6
+      }
+    },
+    "expandedKeys": [
+      "item-2-0",
+      "item-2-14",
+      "item-2-10"
+    ],
+    "scroll": 37.415421834501885
+  },
+  "杂记/Vue工程启动.md": {
+    "cursor": {
+      "from": {
+        "line": 71,
+        "ch": 37
+      },
+      "to": {
+        "line": 71,
+        "ch": 37
+      }
+    },
+    "expandedKeys": [],
+    "scroll": 50.624719656251166
+  },
+  "file:C:/Users/Shyanthen/Desktop/vuelab2-database/属性分析报告.md": {
+    "expandedKeys": [
+      "item-1-0"
+    ],
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 31
+      },
+      "to": {
+        "line": 0,
+        "ch": 31
+      }
+    }
+  },
+  "学校/离散数学/C1 命题逻辑/等值演算公式.md": {
+    "expandedKeys": [
+      "item-2-2"
+    ],
+    "scroll": 38.179747442455245,
+    "cursor": {
+      "from": {
+        "line": 49,
+        "ch": 29
+      },
+      "to": {
+        "line": 49,
+        "ch": 29
+      }
+    }
+  },
+  "学校/离散数学/C1 命题逻辑/命题的主析取范式和主合取范式求法.md": {
+    "expandedKeys": [
+      "item-2-1",
+      "item-2-10",
+      "item-2-14"
+    ],
+    "scroll": 182.2501624431449
+  },
+  "英语/单词学习/E26-8-11.md": {
+    "expandedKeys": [],
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 0
+      },
+      "to": {
+        "line": 6,
+        "ch": 0
+      }
+    }
+  },
+  "英语/单词学习/E26-8-7.md": {
+    "expandedKeys": [],
+    "cursor": {
+      "from": {
+        "line": 5,
+        "ch": 0
+      },
+      "to": {
+        "line": 5,
+        "ch": 0
+      }
+    }
+  },
+  "计算机类/计算机工具类/AI/Function Calling.md": {
+    "expandedKeys": [
+      "item-2-1",
+      "item-1-0",
+      "item-2-3"
+    ],
+    "cursor": {
+      "from": {
+        "line": 10,
+        "ch": 0
+      },
+      "to": {
+        "line": 10,
+        "ch": 0
+      }
+    },
+    "scroll": 2.6785714285714284
   }
 }
