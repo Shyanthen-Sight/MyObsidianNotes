@@ -10,6 +10,7 @@ This note is maintained by the Explorer Order Editor plugin. It stores the manua
   "英语": ["单词学习","职场英语写作"],
   "英语/单词学习": ["E26-10-28.md","E26-10-19.md","E26-10-18.md","E26-10-17.md","E26-10-15.md","E26-10-1.md","E26-9-30.md","E26-9-29.md","E26-9-21.md","E26-9-20.md","E26-9-19.md","E26-9-17.md","E26-9-9.md","E26-9-18.md","E26-9-16.md","E26-8-7.md","E26-8-11.md","E26-8-10.md"],
   "计算机类": ["Linux","计算机杂学","计算机网络","计算机工具类","数据结构","Mysql","数据库","软件测试","前端项目分析","Java","vue3","Three.js","TypeScript","JavaScript","JSGithub"],
+  "计算机类/JSGithub/1-JavaScript 编程语言": ["index.md","01 简介","02 JavaScript 基础知识","03 代码质量","04 Object（对象）：基础知识","05 数据类型","06 函数进阶内容","07 对象属性配置","08 原型，继承","09 类","10 错误处理","11 Promise，async／await","12 Generator，高级 iteration","13 模块","14 杂项"],
   "计算机类/Java": ["00-Java学习路线.md","01-基础语法","02-类与对象","03-继承与多态","04-关键字与修饰符","05-异常处理","06-集合与泛型","07-IO流","08-多线程与并发","09-Lambda与Stream","10-反射注解与JVM","99-杂项","易错点","images"],
   "计算机类/Java/02-类与对象/封装": ["getter与setter","封装的意义与作用.md","封装代码示例区.md","常见误区.md"],
   "计算机类/Java/02-类与对象/封装/getter与setter": ["Getter读.md","Setter写.md","在Setter里面做数据检验.md"],
