@@ -1,8 +1,8 @@
 {
   "userName": "",
-  "permissionMode": "yolo",
+  "permissionMode": "auto",
   "model": "haiku",
-  "effortLevel": "medium",
+  "effortLevel": "high",
   "serviceTier": "default",
   "enableAutoTitleGeneration": true,
   "titleGenerationLocale": "",
@@ -19,63 +19,50 @@
     "focusInputKey": "i"
   },
   "requireCommandOrControlEnterToSend": false,
-  "locale": "zh-CN",
+  "locale": "en",
   "providerConfigs": {
+    "antigravity": {
+      "cliPath": "",
+      "cliPathsByHost": {},
+      "enabled": false,
+      "environmentHash": "",
+      "environmentVariables": "",
+      "modelAliases": {},
+      "preferredReasoningByModel": {},
+      "sessionStoreHash": "",
+      "visibleModels": [],
+      "selectedModelsByHost": {}
+    },
     "claude": {
+      "installationMethodsByHost": {},
+      "wslDistroOverridesByHost": {},
       "enabled": true,
-      "safeMode": "acceptEdits",
+      "outputStyle": null,
+      "promptSuggestions": false,
+      "discoveredOutputStyles": [
+        "default",
+        "Proactive",
+        "Concise",
+        "Explanatory",
+        "Learning"
+      ],
       "cliPath": "",
       "cliPathsByHost": {},
       "loadUserSettings": true,
       "enableChrome": false,
-      "enableBangBash": false,
-      "customModels": "",
-      "lastModel": "haiku",
-      "modelEnvironmentType": "",
-      "titleModelEnvironmentType": "",
-      "environmentVariables": "",
-      "environmentHash": "",
-      "responseStyle": "Default",
-      "modelAliases": {},
       "visibleModels": [
         "haiku",
-        "sonnet",
-        "opus",
-        "claude-fable-5-1"
+        "opus"
       ],
+      "modelAliases": {},
+      "environmentVariables": "",
+      "environmentHash": "",
+      "sessionEnvironmentHash": "",
       "selectedModels": [
         {
           "value": "opus",
           "label": "deepseek-v4-pro",
           "description": "Custom Opus model",
-          "resolvedModel": "deepseek-v4-pro",
-          "reasoningMetadataResolved": true,
-          "supportedEffortLevels": [
-            "low",
-            "medium",
-            "high",
-            "xhigh",
-            "max"
-          ]
-        },
-        {
-          "value": "fable",
-          "label": "Fable",
-          "description": "Fable 5.1 · Most capable for your hardest and longest-running tasks · $10/$50 per Mtok",
-          "resolvedModel": "claude-fable-5-1",
-          "reasoningMetadataResolved": true,
-          "supportedEffortLevels": [
-            "low",
-            "medium",
-            "high",
-            "xhigh",
-            "max"
-          ]
-        },
-        {
-          "value": "sonnet",
-          "label": "deepseek-v4-pro",
-          "description": "Custom Sonnet model",
           "resolvedModel": "deepseek-v4-pro",
           "reasoningMetadataResolved": true,
           "supportedEffortLevels": [
@@ -109,16 +96,36 @@
       "cliPathsByHost": {},
       "modelAliases": {},
       "visibleModels": [],
+      "enableUltraEffort": false,
+      "responseStyle": "pragmatic",
+      "responseVerbosity": "default",
       "reasoningSummary": "detailed",
       "environmentVariables": "",
       "environmentHash": "",
+      "sessionEnvironmentHash": "",
       "installationMethodsByHost": {},
       "wslDistroOverridesByHost": {},
-      "enableUltraEffort": false,
-      "responseStyle": "pragmatic",
+      "selectedModels": []
+    },
+    "deepseek": {
+      "installationMethodsByHost": {},
+      "wslDistroOverridesByHost": {},
+      "enabled": false,
+      "codeMode": false,
+      "presetPlugins": "",
+      "cliPath": "",
+      "cliPathsByHost": {},
+      "environmentVariables": "",
+      "environmentHash": "",
+      "visibleModels": [],
+      "modelAliases": {},
+      "preferredReasoningByModel": {},
       "selectedModels": []
     },
     "grok": {
+      "installationMethodsByHost": {},
+      "wslDistroOverridesByHost": {},
+      "sessionEnvironmentHash": "",
       "cliPath": "",
       "cliPathsByHost": {},
       "enabled": false,
@@ -130,18 +137,8 @@
       "selectedModelsByHost": {}
     },
     "opencode": {
-      "cliPath": "",
-      "cliPathsByHost": {},
-      "enabled": false,
-      "environmentHash": "",
-      "environmentVariables": "OPENCODE_ENABLE_EXA=1",
-      "modelAliases": {},
-      "preferredThinkingByModel": {},
-      "thinkingOptionsByModel": {},
-      "visibleModels": [],
-      "selectedModels": []
-    },
-    "pi": {
+      "installationMethodsByHost": {},
+      "wslDistroOverridesByHost": {},
       "cliPath": "",
       "cliPathsByHost": {},
       "enabled": false,
@@ -149,33 +146,47 @@
       "environmentVariables": "",
       "modelAliases": {},
       "preferredThinkingByModel": {},
+      "thinkingOptionsByModel": {},
+      "visibleModels": [],
+      "selectedModels": []
+    },
+    "pi": {
+      "installationMethodsByHost": {},
+      "wslDistroOverridesByHost": {},
+      "cliPath": "",
+      "cliPathsByHost": {},
+      "enabled": false,
+      "environmentHash": "",
+      "environmentVariables": "",
+      "modelAliases": {},
+      "preferredThinkingByModel": {},
+      "sessionEnvironmentHash": "",
       "visibleModels": [],
       "selectedModels": []
     }
   },
   "settingsProvider": "claude",
-  "lastSelectedChatModel": {
-    "providerId": "claude",
-    "model": "haiku"
-  },
+  "lastSelectedChatModel": null,
+  "inlineEditModel": null,
   "savedProviderModel": {
     "claude": "haiku"
   },
   "savedProviderEffort": {
-    "claude": "medium"
+    "claude": "high"
   },
   "savedProviderServiceTier": {},
   "savedProviderPermissionMode": {
-    "claude": "yolo"
+    "claude": "auto"
   },
   "pendingProviderSessionInvalidations": {},
-  "maxWarmAgentProcesses": 5,
   "enableAutoScroll": true,
   "showMessageTimestamps": false,
   "deferMathRenderingDuringStreaming": true,
+  "pluginRenderedFenceLanguages": [],
   "expandFileEditsByDefault": false,
   "chatViewPlacement": "right-sidebar",
   "enableZenMode": true,
+  "zenModePosition": null,
   "enableDualPane": true,
   "dualPaneSide": "right",
   "restoreTabsOnStartup": true,
@@ -184,13 +195,5 @@
   "sessionManagerSort": "last-updated",
   "sessionAutoArchiveAfter": "off",
   "pinnedLinkedContentPaths": [],
-  "hiddenCommands": [],
-  "thinkingBudget": "off",
-  "customModelAliases": {},
-  "savedProviderThinkingBudget": {},
-  "lastCustomModel": "",
-  "collabEnabled": false,
-  "collabProjectsFolder": "workspace",
-  "collabGitPath": "",
-  "maxTabs": 3
+  "hiddenCommands": []
 }
