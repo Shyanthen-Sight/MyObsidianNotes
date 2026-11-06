@@ -40,3 +40,6 @@ desktop.ini
 
 # ---------- Obsidian 回收站 ----------
 .trash/
+
+# ---------- 插件运行时状态（quiet-outline 逐篇记录，频繁变动） ----------
+.obsidian/plugins/obsidian-quiet-outline/markdown-states.json
