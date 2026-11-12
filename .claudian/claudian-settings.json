@@ -1,8 +1,8 @@
 {
   "userName": "",
-  "permissionMode": "auto",
+  "permissionMode": "yolo",
   "model": "haiku",
-  "effortLevel": "high",
+  "effortLevel": "medium",
   "serviceTier": "default",
   "enableAutoTitleGeneration": true,
   "titleGenerationLocale": "",
@@ -172,11 +172,11 @@
     "claude": "haiku"
   },
   "savedProviderEffort": {
-    "claude": "high"
+    "claude": "medium"
   },
   "savedProviderServiceTier": {},
   "savedProviderPermissionMode": {
-    "claude": "auto"
+    "claude": "yolo"
   },
   "pendingProviderSessionInvalidations": {},
   "enableAutoScroll": true,

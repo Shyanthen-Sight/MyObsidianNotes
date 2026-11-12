@@ -2,13 +2,10 @@
   "obsidian-checklist-plugin",
   "obsidian-emoji-toolbar",
   "obsidian-excel-to-markdown-table",
-  "obsidian-fullscreen-plugin",
   "highlightr-plugin",
   "obsidian-icon-folder",
-  "pdf-plus",
   "templater-obsidian",
   "obsidian-excalidraw-plugin",
-  "vscode-editor",
   "explorer-order-editor",
   "omnisearch",
   "ctrl-scroll-zoom",
@@ -17,8 +14,6 @@
   "editing-toolbar",
   "obsidian-tasks-plugin",
   "immersive-folder",
-  "blur",
   "realclaudian",
-  "open-tab-settings",
-  "execute-code"
+  "open-tab-settings"
 ]

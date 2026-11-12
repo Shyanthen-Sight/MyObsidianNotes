@@ -38,8 +38,9 @@ desktop.ini
 *.swp
 *.log
 
-# ---------- Obsidian 回收站 ----------
+# ---------- Obsidian 回收站 / 归档 ----------
 .trash/
+.archive/
 
 # ---------- 插件运行时状态（quiet-outline 逐篇记录，频繁变动） ----------
 .obsidian/plugins/obsidian-quiet-outline/markdown-states.json
