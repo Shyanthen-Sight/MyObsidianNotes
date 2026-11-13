@@ -1,0 +1,70 @@
+---
+tags:
+  - JavaScript
+  - JSGithub
+source: javascript.info
+---
+
+# 浏览器：文档，事件，接口
+
+学习如何管理浏览器页面：添加元素，操纵元素的大小和位置，动态创建接口并与访问者互动。
+
+## 目录
+
+### 01 Document
+
+在这里，我们将学习如何使用 JavaScript 来操纵网页。
+
+- [[1.1 浏览器环境，规格]]
+- [[1.2 DOM 树]]
+- [[1.3 遍历 DOM]]
+- [[1.4 搜索：getElement＊，querySelector＊]]
+- [[1.5 节点属性：type，tag 和 content]]
+- [[1.6 特性和属性（Attributes and properties）]]
+- [[1.7 修改文档（document）]]
+- [[1.8 样式和类]]
+- [[1.9 元素大小和滚动]]
+- [[1.10 Window 大小和滚动]]
+- [[1.11 坐标]]
+
+### 02 事件简介
+
+浏览器事件、事件属性和处理模式简介。
+
+- [[2.1 浏览器事件简介]]
+- [[2.2 冒泡和捕获]]
+- [[2.3 事件委托]]
+- [[2.4 浏览器默认行为]]
+- [[2.5 创建自定义事件]]
+
+### 03 UI 事件
+
+在这里，我们介绍了最重要的用户界面事件，以及如何使用它们。
+
+- [[3.1 鼠标事件]]
+- [[3.2 移动鼠标：mouseover／out，mouseenter／leave]]
+- [[3.3 鼠标拖放事件]]
+- [[3.4 指针事件]]
+- [[3.5 键盘：keydown 和 keyup]]
+- [[3.6 滚动]]
+
+### 04 表单，控件
+
+表单 `<form>` 和控件的特殊属性和事件：`<input>`，`<select>` 及其他。
+
+- [[4.1 表单属性和方法]]
+- [[4.2 聚焦：focus／blur]]
+- [[4.3 事件：change，input，cut，copy，paste]]
+- [[4.4 表单：事件和方法提交]]
+
+### 05 加载文档和其他资源
+
+- [[5.1 页面生命周期：DOMContentLoaded，load，beforeunload，unload]]
+- [[5.2 脚本：async，defer]]
+- [[5.3 资源加载：onload，onerror]]
+
+### 06 杂项
+
+- [[6.1 DOM 变动观察器（Mutation observer）]]
+- [[6.2 选择（Selection）和范围（Range）]]
+- [[6.3 事件循环：微任务和宏任务]]

@@ -1,0 +1,20 @@
+{
+  "backend": "auto",
+  "remoteUrl": "https://github.com/Shyanthen-Sight/MyObsidianNotes.git",
+  "branch": "main",
+  "apiProvider": "github",
+  "apiToken": "",
+  "apiBaseUrl": "",
+  "gitPath": "git",
+  "autoSync": true,
+  "autoSyncInterval": 10,
+  "syncOnStartup": true,
+  "syncOnFileChange": true,
+  "fileChangeDebounce": 30,
+  "commitMessage": "vault backup: {{date}}",
+  "pullStrategy": "merge",
+  "showNotice": true,
+  "lfsEnabled": true,
+  "lfsMaxFileSizeMB": 500,
+  "debug": false
+}

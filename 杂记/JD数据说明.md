@@ -222,4 +222,4 @@ jq -r 'select(.discovery_keyword == "手机") | .sku_id' data/products.jsonl
 
 ---
 
-*字段定义参考：[jd_spider/models.py](jd_spider/models.py)；采集流程与运行参数参考：[README.md](计算机类/软件测试/README.md)。*
+*字段定义参考：[jd_spider/models.py](jd_spider/models.py)；采集流程与运行参数参考：[README.md](软件测试/README.md)。*
