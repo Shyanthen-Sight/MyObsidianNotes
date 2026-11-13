@@ -141,7 +141,7 @@ app.patch('/api/v1/movies/:id', (request, response) => {
 课程演示：把 id=2 电影的 `releaseYear` 从 2014 改成 2018——请求体**只带 releaseYear 一个字段**，其余字段不动，这就是 PATCH 的语义。
 
 > [!tip] 只复制 body 里存在的字段
-> 上面 `if (xxx !== undefined)` 的模式很重要：POST 的 body 由客户端提供，**不可信任**——只更新明确传来的字段，防止把 `id` 或未定义字段灌进数据。更优雅的现代写法是 `Object.assign` / 解构过滤，Express 教程后续（[[04-Mongoose-CRUD]]）会复用这个思想。
+> 上面 `if (xxx !== undefined)` 的模式很重要：POST 的 body 由客户端提供，**不可信任**——只更新明确传来的字段，防止把 `id` 或未定义字段灌进数据。更优雅的现代写法是 `Object.assign` / 解构过滤，Express 教程后续（[[04-Mongoose实战/02-MVC架构与Express实现CRUD]]）会复用这个思想。
 
 ---
 
@@ -179,7 +179,7 @@ app.delete('/api/v1/movies/:id', (request, response) => {
 | 删除 | `DELETE /api/v1/movies/:id` | 204 | 无 |
 
 > [!note] 数据源的演进
-> 课程把数据存在 `movies.json` 里读写——只适合演示。真实应用要用数据库：Mongoose 版 CRUD 见 [[02-Mongoose-CRUD]]。
+> 课程把数据存在 `movies.json` 里读写——只适合演示。真实应用要用数据库：Mongoose 版 CRUD 见 [[04-Mongoose实战/02-MVC架构与Express实现CRUD]]。
 
 ---
 
@@ -199,4 +199,4 @@ app.delete('/api/v1/movies/:id', (request, response) => {
 > - [ ] 分清 PUT 与 PATCH
 
 ---
-**相关笔记**：[[01-Express入门与RESTful设计]] · [[03-中间件机制]] · [[02-Mongoose-CRUD]] · [[README|课程导航]]
+**相关笔记**：[[01-Express入门与RESTful设计]] · [[03-中间件机制]] · [[04-Mongoose实战/02-MVC架构与Express实现CRUD]] · [[README|课程导航]]

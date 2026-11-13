@@ -206,4 +206,4 @@ rs.pipe(response);        // 一行替代上一章的 data/end 监听
 > - [ ] 能解释背压和 pipe 为什么存在
 
 ---
-**相关笔记**：[[06-模块化]] · [[09-Node架构与事件循环]] · [[02-Mongoose-CRUD]] · [[README|课程导航]]
+**相关笔记**：[[06-模块化]] · [[09-Node架构与事件循环]] · [[04-Mongoose实战/02-MVC架构与Express实现CRUD]] · [[README|课程导航]]

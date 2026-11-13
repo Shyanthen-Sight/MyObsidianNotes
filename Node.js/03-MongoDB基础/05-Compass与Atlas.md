@@ -21,7 +21,7 @@ Compass（装 server 时已随附）解决 mongosh 的两大痛点：**看不清
 2. **浏览**：左侧数据库列表 → 点 `sampleDB` → 点 `customer` 集合 → 表格/JSON 两种视图看文档
 3. **查询**：顶部过滤栏直接填 mongosh 同款过滤条件（如 `{ "subscription.type": "monthly" }`）→ 点路径查询在这里尤其直观
 4. **文档级操作**：点单条文档右上角铅笔图标可**可视化编辑**字段——比 shell 里拼 JSON 不容易错
-5. **Schema / 索引 / 聚合**：左侧 Schema 标签能自动采样分析字段分布；Aggregations 标签是搭 [[04-Mongoose实战/06-聚合管道|聚合管道]] 的可视化面板
+5. **Schema / 索引 / 聚合**：左侧 Schema 标签能自动采样分析字段分布；Aggregations 标签是搭 [[04-Mongoose实战/04-聚合管道|聚合管道]] 的可视化面板
 
 > [!tip] 什么时候用 Compass 什么时候用 shell
 > - **探索、检查、改单条脏数据** → Compass

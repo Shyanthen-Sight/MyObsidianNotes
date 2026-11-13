@@ -49,7 +49,7 @@ app.listen(3000, () => console.log('Server has started!'));
 | 路由 | 手写 if/else 判断 `request.url` | `app.get('/path', handler)` |
 | 响应头 | 手动 `writeHead` | `res.send()`/`res.json()` 自动推断 |
 | 解析参数 | `url.parse` / 手动处理 | `request.query` / `request.params` 直接用 |
-| 错误处理 | 自己 try-catch 每处 | 全局错误中间件统一处理（见 [[01-错误处理架构]]） |
+| 错误处理 | 自己 try-catch 每处 | 全局错误中间件统一处理（见 [[05-错误处理/01-默认路由与全局错误处理]]） |
 
 > [!note] 2026 年的版本差异（课程用的 Express 4，如今是 5.x）
 > 写作时 Express 已发布 **5.3.0**。与本课程相关的重要变化：
@@ -102,7 +102,7 @@ REST（REpresentational State Transfer）是一套 **URL 设计规范**，课程
 2. **Expose structured, resource-based URLs** —— URL 指向资源，不是动作
 3. **Use HTTP methods** —— 用方法表达动作
 4. **Send JSON data in response**
-5. **API must be stateless** —— ==无状态==：服务器不记住上一次请求，每次请求必须自带全部信息（会话信息放 token，见 [[01-用户模型与JWT]]）
+5. **API must be stateless** —— ==无状态==：服务器不记住上一次请求，每次请求必须自带全部信息（会话信息放 token，见 [[06-认证与授权/02-JWT原理与登录注册]]）
 
 ### 动词映射：一个 URL 处理全部 CRUD
 
