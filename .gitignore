@@ -44,3 +44,4 @@ desktop.ini
 
 # ---------- 插件运行时状态（quiet-outline 逐篇记录，频繁变动） ----------
 .obsidian/plugins/obsidian-quiet-outline/markdown-states.json
+.obsidian/plugins/hybrid-git-sync/data.json
