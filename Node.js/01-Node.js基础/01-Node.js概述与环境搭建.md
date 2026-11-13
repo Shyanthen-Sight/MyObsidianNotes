@@ -178,9 +178,9 @@ Interface closed
 | `window` / `document` 报错 | 在 Node 里用了浏览器 API | Node 没有这些全局对象 |
 
 > [!summary] 自查清单
-> - [ ] 能用一句话说明 Node 和 JavaScript 的区别
-> - [ ] 知道 LTS / Current 怎么选
-> - [ ] 会用 REPL 快速验证代码
+> - [x] 能用一句话说明 Node 和 JavaScript 的区别
+> - [x] 知道 LTS / Current 怎么选
+> - [x] 会用 REPL 快速验证代码
 > - [ ] 能独立跑通 readline 交互程序
 
 ---

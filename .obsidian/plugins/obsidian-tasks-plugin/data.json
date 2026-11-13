@@ -16,6 +16,9 @@
   "setCreatedDate": false,
   "setDoneDate": true,
   "setCancelledDate": true,
+  "postpone": {
+    "dateField": "due-scheduled-start"
+  },
   "autoSuggestInEditor": true,
   "autoSuggestMinMatch": 0,
   "autoSuggestMaxItems": 20,
@@ -27,6 +30,9 @@
   "removeScheduledDateOnRecurrence": false,
   "searchResults": {
     "taskCountLocation": "bottom"
+  },
+  "quickSearch": {
+    "fuzzyMatching": true
   },
   "statusSettings": {
     "coreStatuses": [
@@ -76,15 +82,7 @@
     "cancelled": true
   },
   "dismissedNotices": {
-    "live-preview-callout-warning": false
-  },
-  "features": {
-    "INTERNAL_TESTING_ENABLED_BY_DEFAULT": true
-  },
-  "generalSettings": {},
-  "headingOpened": {
-    "核心状态": true,
-    "自定义状态": true
+    "live-preview-callout-warning": true
   },
   "debugSettings": {
     "ignoreSortInstructions": false,
