@@ -48,7 +48,7 @@ MongoDB 是 **NoSQL 文档型数据库**：不存"表 + 行 + 列"，而是存"�
 2. 选 **Community Server**，下载 MSI 安装包
 3. 安装时勾选：
    - **MongoDB Server** —— 数据库本体
-   - **MongoDB Compass** —— 官方 GUI 客户端（勾上，后面 [[03-MongoDB基础/04-数据类型与嵌入文档|Compass 篇]] 直接用）
+   - **MongoDB Compass** —— 官方 GUI 客户端（勾上，后面 [[03-MongoDB基础/05-Compass与Atlas|Compass 篇]] 直接用）
 4. 安装完成后 MongoDB 作为 **Windows 服务**（服务名 `MongoDB`）自动在后台运行，默认端口 **27017**
 5. 验证：`services.msc` 里看到 MongoDB 服务处于 Running
 

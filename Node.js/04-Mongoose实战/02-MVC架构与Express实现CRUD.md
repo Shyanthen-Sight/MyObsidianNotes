@@ -36,6 +36,9 @@ created: 2026-11-13
 ![Postman 创建文档](img/course-mg02-postman-post.jpg)
 *图 G2-03 · 视频 #68 · Postman 里 POST 新电影并收到 201 响应*
 
+![createMovie 代码现场](img/course-mg02-create.jpg)
+*图 G2-03b · 视频 #68 · `Movie.create(req.body)` 代码与响应*
+
 ```javascript
 // controllers/movieController.js
 const Movie = require('./../models/movieModel');

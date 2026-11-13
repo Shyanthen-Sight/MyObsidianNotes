@@ -107,6 +107,9 @@ testMovie.save()                       // 异步写库，返回 Promise
 | `new Model({...})` + `.save()` | 需要先在内存里改字段/挂方法，再落库 |
 | `Model.create({...})` | 一步到位（内部就是 new + save） |
 
+![new Model 与 save 现场](img/course-mg01-model-save.jpg)
+*图 G1-04b · 视频 #66 · `new Movie({...})` 构造文档对象的现场*
+
 > [!important] Schema 的意义（承上启下）
 > 上一板块说"无 schema 灵活"，这一板块又"立规矩"——并不矛盾：**数据库层面灵活（可以存任何文档），应用层面用 Mongoose 管住写入的口子**。`save()` 时自动跑 required/min/max/自定义验证，脏数据进不了库。
 

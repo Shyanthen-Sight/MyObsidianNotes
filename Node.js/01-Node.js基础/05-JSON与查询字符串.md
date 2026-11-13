@@ -49,7 +49,7 @@ JSON.stringify(jsObject)  // JS 对象 → 字符串
 ### 提供两种响应：API 与页面
 
 ![[img/course-02-callback-nesting.jpg]]
-*图 02-4 · 异步读 JSON 文件*
+*图 05-1b · 异步读 JSON 文件*
 
 ```js
 fs.readFile('./data/product.json', 'utf-8', (err, data) => {
@@ -102,6 +102,10 @@ response.end(html.replace('{{%PRODUCTS%}}', cards));
 
 ### 3.1 什么是查询字符串
 
+![[img/course-05-query-parse.jpg]]
+*图 05-3 · 视频 #17 · URL 中 `?key=value&...` 的结构示意*
+
+
 ```
 www.nodeapp.com/books?author=john&sort=price
                  ──────┬───────────────────
@@ -113,7 +117,7 @@ www.nodeapp.com/books?author=john&sort=price
 ### 3.2 老方法：`url.parse`
 
 ![[img/course-05-url-parse.jpg]]
-*图 05-3 · 00:09:23 · url.parse(request.url, true).query*
+*图 05-4 · 00:09:23 · url.parse(request.url, true).query*
 
 ```js
 const url = require('url');
@@ -157,7 +161,7 @@ u.searchParams.get('sort');   // 'price'
 ## 四、提取可复用函数（#18）
 
 ![[img/course-05-reusable-fn.jpg]]
-*图 05-4 · 00:06:04 · 渲染逻辑封装成 replaceProducts 函数*
+*图 05-5 · 00:06:04 · 渲染逻辑封装成 replaceProducts 函数*
 
 ```js
 function replaceProducts(template, product) {
