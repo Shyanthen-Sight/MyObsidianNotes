@@ -181,7 +181,7 @@ Interface closed
 > - [x] 能用一句话说明 Node 和 JavaScript 的区别
 > - [x] 知道 LTS / Current 怎么选
 > - [x] 会用 REPL 快速验证代码
-> - [ ] 能独立跑通 readline 交互程序
+> - [x] 能独立跑通 readline 交互程序
 
 ---
 **相关笔记**：[[09-Node架构与事件循环]] · [[08-npm与包管理]] · [[README|课程导航]]
