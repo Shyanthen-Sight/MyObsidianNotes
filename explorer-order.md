@@ -16,6 +16,7 @@ This note is maintained by the Explorer Order Editor plugin. It stores the manua
   "Mysql/01 DDL 数据定义语言": ["索引与优化","视图","数据约束","表操作"],
   "Mysql/03 DQL 数据查询语言/谓词": ["谓词总览.md","安全等于.md","比较谓词.md","空值谓词.md","量化比较谓词.md","BETWEEN谓词.md","EXISTS谓词.md","IN谓词.md","LIKE谓词.md","REGEXP谓词.md","逻辑谓词.md"],
   "Mysql/03 DQL 数据查询语言/连接查询": ["INNER JOIN.md","LEFT JOIN.md","RIGHT JOIN.md","SELF JOIN.md","FULL OUTER JOIN.md","CROSS JOIN.md"],
+  "Node.js": ["README.md","01-Node.js基础","02-Express","03-MongoDB基础","04-Mongoose实战","05-错误处理","06-认证与授权","img","others"],
   "TypeScript": ["TS的引入","TS的编译","TS类型"],
   "TypeScript/TS的引入": ["如何启动TS.md","编译器选项.md","项目使用TS的终端输入流程.md","tsconfig.json.md","TypeScript vs JavaScript.md"],
   "TypeScript/TS类型": ["README.md","01-top-types","02-primitive-types","03-object-types","04-bottom-types"],
