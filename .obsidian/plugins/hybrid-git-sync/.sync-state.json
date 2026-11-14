@@ -1,5 +1,5 @@
 {
-  "lastSyncTime": "2026-11-14T04:54:50.598Z",
+  "lastSyncTime": "2026-11-14T04:55:13.479Z",
   "files": {
     "JSGithub/1-JavaScript 编程语言/01 简介/1.4 开发者控制台.md": "8b943f96047d4c8a88ad5a7a4bf15cf7110d23c8",
     ".obsidian/types.json": "32f3c41b73151588f80693b111fbfc844678927d",
@@ -2186,7 +2186,7 @@
     ".obsidian/plugins/obsidian-quiet-outline/main.js": "1728d8251c97c24ab45b0578951f18c0bda9bfe2",
     ".obsidian/plugins/omnisearch/main.js": "e2b04382cbdf1a9596fdd892baa8be0426441b4e",
     ".obsidian/plugins/obsidian-excalidraw-plugin/main.js": "0d36adb56d41d37cf29e91aa1b68e448287c9f80",
-    ".obsidian/plugins/hybrid-git-sync/.sync-state.json": "229026abcb1ca07c659ccfe85a778524ebd18497"
+    ".obsidian/plugins/hybrid-git-sync/.sync-state.json": "780006c21eace8a6b88669ee78f65950cdc8de90"
   },
   "remoteShas": {
     ".claude/settings.json": "95234c2bea854d0accf0fae9e9d2f0c58e9bbcbd",
@@ -2220,6 +2220,7 @@
     ".obsidian/plugins/highlightr-plugin/main.js": "3ecf5e1329e26a7fa6deb37e4fe728c86d3ab7d0",
     ".obsidian/plugins/highlightr-plugin/manifest.json": "98e3530370eec22674811774c0b7e35bde6cdf04",
     ".obsidian/plugins/highlightr-plugin/styles.css": "a7791390606fc7fe0a668cbc282a29aab3942acd",
+    ".obsidian/plugins/hybrid-git-sync/.sync-state.json": "780006c21eace8a6b88669ee78f65950cdc8de90",
     ".obsidian/plugins/hybrid-git-sync/main.js": "963488eaa747e48012dff5d1f668590109ede51e",
     ".obsidian/plugins/hybrid-git-sync/manifest.json": "9c3589766679084d2d065691aab1866db4cb171b",
     ".obsidian/plugins/hybrid-git-sync/styles.css": "3663e744a782362a3124a07dbe5982e56aeefd52",
@@ -4376,9 +4377,8 @@
     "软件测试/基础认知/测试优先级分配.md": "b297243bc9ccdbff933b3ef16a4e4ec21f540b51",
     "软件测试/基础认知/测试方法.md": "30ce3daf20835c2437d3ce44ac4528b6e23d0177",
     "软件测试/基础认知/测试流程.md": "1c7c9d3e3904ea4911ee7154f6f6e9b3035adba0",
-    "软件测试/基础认知/测试预言机.md": "b604ce5efa218efe01b4912b101239b07a03f8d7",
-    ".obsidian/plugins/hybrid-git-sync/.sync-state.json": "229026abcb1ca07c659ccfe85a778524ebd18497"
+    "软件测试/基础认知/测试预言机.md": "b604ce5efa218efe01b4912b101239b07a03f8d7"
   },
-  "lastSyncHeadSha": "ae52cf5e0a708c668436a1a245854b9611d3d815",
+  "lastSyncHeadSha": "1ccd29182649d7c1348868c5464437b8488a2cbf",
   "repoId": "github|https://api.github.com|Shyanthen-Sight/MyObsidianNotes|main"
 }
