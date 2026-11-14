@@ -16,6 +16,10 @@
 .mcp.json
 .mcp.json.bak
 
+# --- 仅桌面插件（isDesktopOnly，不同步到移动端）---
+.obsidian/plugins/ctrl-scroll-zoom/
+.obsidian/plugins/realclaudian/
+
 # --- 本地状态，无需同步 ---
 .obsidian/plugins/obsidian-quiet-outline/markdown-states.json
 .workbuddy/
