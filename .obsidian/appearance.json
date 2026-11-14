@@ -1,6 +1,3 @@
 {
-  "showRibbon": true,
-  "theme": "system",
-  "baseFontSizeAction": false,
-  "showViewHeader": true
+  "showRibbon": false
 }
