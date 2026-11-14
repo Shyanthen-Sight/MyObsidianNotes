@@ -1,29 +1,34 @@
-# 默认忽略所有 dotfile（防止未知工具的文件被提交）
-.*
+# ============================================================
+# 同步规则（桌面 git + 手机 hybrid-git-sync 的 API 后端共用）
+# 原则：只排除「设备相关」和「含密钥」的东西，其余全部同步
+# 注意：手机端 API 后端同样读这份文件做过滤，规则写太宽会静默丢文件
+# ============================================================
 
-# 保留以下 dotfile
-!.obsidian/
-!.gitignore
-!.gitattributes
-
-# Obsidian - 设备相关文件
+# --- 绝对不能同步 ---
+.git/
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
-
-# 插件目录（代码、配置、依赖全部忽略）
-.obsidian/plugins/
-
-# 缓存
 .obsidian/cache/
-
-# 回收站
 .trash/
 
-# 操作系统文件
+# --- 密钥 / 凭据（提交后会永久留在 git 历史）---
+.obsidian/plugins/hybrid-git-sync/data.json
+.mcp.json
+.mcp.json.bak
+
+# --- 本地状态，无需同步 ---
+.obsidian/plugins/obsidian-quiet-outline/markdown-states.json
+.workbuddy/
+.claudian/sessions/
+
+# --- 归档目录，按需可放行 ---
+.archive/
+
+# --- 操作系统文件 ---
 .DS_Store
 Thumbs.db
 
-# 临时文件
+# --- 临时文件 ---
 *.tmp
 *.bak
 *.swp
