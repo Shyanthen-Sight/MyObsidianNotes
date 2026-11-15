@@ -86,6 +86,10 @@ source: https://github.com/alok722/namaste-javascript-notes
 - 📄 [原项目 PDF 版](https://github.com/alok722/namaste-javascript-notes/blob/main/dist/namaste-javascript-notes.pdf)
 - 👤 作者：Alok Raj（[GitHub](https://github.com/alok722) · [LinkedIn](https://linkedin.com/in/alok722)）
 
+## 专题笔记（others/）
+
+- [[解决异步的几种方法]] — 回调 / 事件监听 / Promise / Generator / async-await / RxJS / Worker 六条路线的横向对比与选型
+
 ---
 
 > [!note] 归档说明
