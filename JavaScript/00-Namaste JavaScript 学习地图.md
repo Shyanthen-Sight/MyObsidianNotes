@@ -90,6 +90,7 @@ source: https://github.com/alok722/namaste-javascript-notes
 
 - [[解决异步的几种方法]] — 回调 / 事件监听 / Promise / Generator / async-await / RxJS / Worker 六条路线的横向对比与选型
 - [[异步的底层机制]] — 调用栈 / 宏微任务队列 / 事件循环 / await 挂起恢复 / libuv 六阶段，图表结合
+- [[then的第二个参数与catch的区别]] — 失败回调为何抓不到成功回调里的错误、then(f1,f2) vs then(f1).catch(f2)、错误冒泡规则
 
 ---
 
