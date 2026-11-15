@@ -11,6 +11,12 @@
 .obsidian/cache/
 .trash/
 
+# --- 设备本地状态（各端 Obsidian 会按自己的状态重写，同步会互相覆盖，
+#     曾导致平板备份把桌面端插件启用清单和设置清空，故各设备本地自管）---
+.obsidian/community-plugins.json
+.obsidian/core-plugins.json
+.obsidian/app.json
+
 # --- 密钥 / 凭据（提交后会永久留在 git 历史）---
 .obsidian/plugins/hybrid-git-sync/data.json
 .mcp.json
