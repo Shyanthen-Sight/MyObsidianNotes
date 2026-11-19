@@ -30,7 +30,7 @@ created: 2026-11-13
   "link": "https://…",
   "price": "$1990",
   "status": "In Stock",
-  "camera": "…",
+  "camera": "…", 
   "size": "5.45-inches (4.7-inch Display)"
 }
 ```
