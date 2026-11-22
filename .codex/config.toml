@@ -1,0 +1,18 @@
+[mcp_servers.fetch]
+command = "npx"
+args = [
+    "-y",
+    "fetcher-mcp",
+]
+
+[mcp_servers.xt]
+command = 'B:\python\python.exe'
+args = [
+    "-u",
+    'C:\Users\Shyanthen\chaoxing-mcp\server.py',
+]
+
+[mcp_servers.xt.env]
+XT_ACCOUNT_FILE = 'C:\Users\Shyanthen\chaoxing-mcp\account.md'
+PYTHONIOENCODING = "utf-8"
+PYTHONUTF8 = "1"
