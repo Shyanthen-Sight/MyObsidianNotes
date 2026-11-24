@@ -2,7 +2,7 @@ This note is maintained by the Explorer Order Editor plugin. It stores the manua
 
 ```json
 {
-  "/": ["任务","家教","英语","学校","杂记","reading-progress.json","计算机工具类","计算机网络","计算机杂学","前端项目分析","软件测试","数据结构","数据库","Java","JavaScript","JSGithub","Mysql","Node.js","TypeScript","vue3","八年级英语阅读测试卷（一）.docx","templates","Excalidraw","README.md"],
+  "/": ["任务","家教","英语","学校","杂记","reading-progress.json","计算机工具类","计算机网络","计算机杂学","前端项目分析","软件测试","数据结构","数据库","Java","JavaScript","JSGithub","Mysql","Node.js","TypeScript","vue3","八年级英语阅读测试卷（一）.docx","templates","Excalidraw","README.md","copilot","Three.js","Linux"],
   "JSGithub/1-JavaScript 编程语言": ["index.md","01 简介","02 JavaScript 基础知识","03 代码质量","04 Object（对象）：基础知识","05 数据类型","06 函数进阶内容","07 对象属性配置","08 原型，继承","09 类","10 错误处理","11 Promise，async／await","12 Generator，高级 iteration","13 模块","14 杂项"],
   "Java": ["00-Java学习路线.md","01-基础语法","02-类与对象","03-继承与多态","04-关键字与修饰符","05-异常处理","06-集合与泛型","07-IO流","08-多线程与并发","09-Lambda与Stream","10-反射注解与JVM","99-杂项","易错点","images"],
   "Java/02-类与对象/封装": ["getter与setter","封装的意义与作用.md","封装代码示例区.md","常见误区.md"],
