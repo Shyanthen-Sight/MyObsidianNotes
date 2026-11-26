@@ -1,0 +1,177 @@
+{
+  "settings": {
+    "language": "zh",
+    "booksFolder": "",
+    "noteTemplate": "",
+    "notesFolder": "",
+    "bookNotesFolder": "",
+    "autoBookNote": false,
+    "quotesToBookNote": false,
+    "dataFolder": "",
+    "bookTemplates": {},
+    "exportColors": true,
+    "theme": "auto",
+    "libTheme": "auto",
+    "fontSize": 18,
+    "fontFamily": "georgia",
+    "lineHeight": 1.8,
+    "columns": "2",
+    "textAlign": "left",
+    "vAlign": "top",
+    "translateEnabled": false,
+    "translateTo": "ru",
+    "bookNoteLinks": {},
+    "bookNotePrompted": {
+      "书籍/Redis开发与运维 (付磊 张益军) (z-library.sk_ 1lib.sk_ z-lib.sk)(1).epub": true,
+      "书籍/走进职场英语写作 第2版 (叶红著, 叶红主编, 叶红) (z-library.sk, 1lib.sk, z-lib.sk).pdf": true
+    },
+    "coverFits": {},
+    "syncMode": "auto",
+    "pdfShowFiguresOnTextPages": true,
+    "libCoverSize": 176,
+    "libCategory": "status:reading",
+    "readerAdvOpen": false,
+    "readerHistOpen": false,
+    "askNoteTitle": true,
+    "shortNoteTitles": true,
+    "defaultHlColor": "yellow",
+    "hlBarComment": true,
+    "bookTags": {},
+    "navMode": "buttons",
+    "timerEnabled": true,
+    "dailyGoalMin": 15,
+    "readingLog": {},
+    "lifetimeSeconds": 0,
+    "immersive": true,
+    "mobileTopInset": 0,
+    "reopenBookOnStart": true,
+    "onboarded": true,
+    "promptedRepaired": true,
+    "figuresShownByDefault": true,
+    "einkMode": false,
+    "aiEnabled": false,
+    "aiProvider": "eltonlabs",
+    "aiKey": "",
+    "aiModel": "",
+    "aiBase": "",
+    "aiInto": "русском",
+    "ttsVoice": "Puck",
+    "pdfCache": true,
+    "desktopNoBars": false,
+    "bookBacklinks": true,
+    "syncCommentsFromNote": true,
+    "syncDeleteToNote": false,
+    "timeLeft": true,
+    "readWpm": 180,
+    "vocabEnabled": false,
+    "vocabFile": "",
+    "vocabTarget": "auto",
+    "dailyLog": false,
+    "aiRecap": true,
+    "keysInSecretStorage": false,
+    "pageMargin": "normal",
+    "paraSpacing": 0.75,
+    "ttsRate": 1,
+    "ttsKey": "",
+    "aiSystem": "",
+    "languagePicked": false,
+    "readMode": "pages",
+    "pageTurnAnimation": true,
+    "progressToFrontmatter": false,
+    "quoteTemplate": "",
+    "quoteBacklinks": true,
+    "quoteBacklinkLabel": "",
+    "quoteChapterHeadings": true,
+    "noteOpenMode": "split",
+    "maxLineCh": 0,
+    "notesNextToBook": false,
+    "perDevice": false,
+    "deviceProfiles": {},
+    "lastSeenVersion": "4.1.1",
+    "whatsNewNote": false,
+    "rescueBackups": true,
+    "_mig32": true,
+    "ttsEnabled": false,
+    "readingDays": {
+      "2026-11-27": {
+        "书籍/Redis开发与运维 (付磊 张益军) (z-library.sk_ 1lib.sk_ z-lib.sk)(1).epub": {
+          "sec": 0,
+          "from": 0.002066115702479339,
+          "to": 0.04132231404958678
+        },
+        "书籍/走进职场英语写作 第2版 (叶红著, 叶红主编, 叶红) (z-library.sk, 1lib.sk, z-lib.sk).pdf": {
+          "sec": 0,
+          "from": 1,
+          "to": 0.9545454545454546
+        }
+      }
+    }
+  },
+  "progressBackups": {
+    "书籍/Redis开发与运维 (付磊 张益军) (z-library.sk_ 1lib.sk_ z-lib.sk)(1).epub": [
+      {
+        "pct": 0.002066115702479339,
+        "percent": 0,
+        "lastRead": 1795712380721,
+        "ts": 1795712396627
+      }
+    ],
+    "书籍/走进职场英语写作 第2版 (叶红著, 叶红主编, 叶红) (z-library.sk, 1lib.sk, z-lib.sk).pdf": [
+      {
+        "pct": 0.9545454545454546,
+        "percent": 95,
+        "lastRead": 1789815074794,
+        "ts": 1795712435099
+      }
+    ]
+  },
+  "highlightsBackups": {
+    "书籍/Redis开发与运维 (付磊 张益军) (z-library.sk_ 1lib.sk_ z-lib.sk)(1).epub": [
+      {
+        "ts": 1795712395393,
+        "count": 1,
+        "sig": "hmwxssnxxjdq7",
+        "items": [
+          {
+            "id": "hmwxssnxxjdq7",
+            "color": "purple",
+            "text": "能。表1-2中分别列出这",
+            "block": 478,
+            "occ": 0,
+            "pre": "、可以检测和修复Redis的持久化文件，还可以检测Redis的性",
+            "post": "些可执行文件的说明。",
+            "created": 1795712395317
+          }
+        ]
+      },
+      {
+        "ts": 1795712401400,
+        "count": 2,
+        "sig": "hmwxssnxxjdq7,hmwxsssk4rcpx",
+        "items": [
+          {
+            "id": "hmwxssnxxjdq7",
+            "color": "purple",
+            "text": "能。表1-2中分别列出这",
+            "block": 478,
+            "occ": 0,
+            "pre": "、可以检测和修复Redis的持久化文件，还可以检测Redis的性",
+            "post": "些可执行文件的说明。",
+            "created": 1795712395317
+          },
+          {
+            "id": "hmwxsssk4rcpx",
+            "color": "pink",
+            "text": "redis/redis.conf中，那",
+            "block": 495,
+            "occ": 0,
+            "pre": "将配置写到指定文件里，例如我们将配置写到了/opt/",
+            "post": "么只需要执行如下命令即可启动Redis：",
+            "created": 1795712401300
+          }
+        ]
+      }
+    ]
+  },
+  "lastBookPath": "书籍/走进职场英语写作 第2版 (叶红著, 叶红主编, 叶红) (z-library.sk, 1lib.sk, z-lib.sk).pdf"
+}
