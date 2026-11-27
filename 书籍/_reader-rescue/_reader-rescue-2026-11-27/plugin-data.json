@@ -15,7 +15,7 @@
     "fontSize": 18,
     "fontFamily": "georgia",
     "lineHeight": 1.8,
-    "columns": "2",
+    "columns": "1",
     "textAlign": "left",
     "vAlign": "top",
     "translateEnabled": false,
@@ -23,9 +23,12 @@
     "bookNoteLinks": {},
     "bookNotePrompted": {
       "书籍/Redis开发与运维 (付磊 张益军) (z-library.sk_ 1lib.sk_ z-lib.sk)(1).epub": true,
-      "书籍/走进职场英语写作 第2版 (叶红著, 叶红主编, 叶红) (z-library.sk, 1lib.sk, z-lib.sk).pdf": true
+      "书籍/走进职场英语写作 第2版 (叶红著, 叶红主编, 叶红) (z-library.sk, 1lib.sk, z-lib.sk).pdf": true,
+      "书籍/图解HTTP (上野宣) (z-library.sk, 1lib.sk, z-lib.sk)(2).pdf": true
     },
-    "coverFits": {},
+    "coverFits": {
+      "书籍/走进职场英语写作 第2版 (叶红著, 叶红主编, 叶红) (z-library.sk, 1lib.sk, z-lib.sk).pdf": "fill"
+    },
     "syncMode": "auto",
     "pdfShowFiguresOnTextPages": true,
     "libCoverSize": 176,
@@ -37,11 +40,13 @@
     "defaultHlColor": "yellow",
     "hlBarComment": true,
     "bookTags": {},
-    "navMode": "buttons",
-    "timerEnabled": true,
+    "navMode": "click",
+    "timerEnabled": false,
     "dailyGoalMin": 15,
-    "readingLog": {},
-    "lifetimeSeconds": 0,
+    "readingLog": {
+      "2026-11-27": 0
+    },
+    "lifetimeSeconds": 2,
     "immersive": true,
     "mobileTopInset": 0,
     "reopenBookOnStart": true,
@@ -75,7 +80,7 @@
     "ttsKey": "",
     "aiSystem": "",
     "languagePicked": false,
-    "readMode": "pages",
+    "readMode": "scroll",
     "pageTurnAnimation": true,
     "progressToFrontmatter": false,
     "quoteTemplate": "",
@@ -97,15 +102,22 @@
         "书籍/Redis开发与运维 (付磊 张益军) (z-library.sk_ 1lib.sk_ z-lib.sk)(1).epub": {
           "sec": 0,
           "from": 0.002066115702479339,
-          "to": 0.04132231404958678
+          "to": 0.04604051565377532
         },
         "书籍/走进职场英语写作 第2版 (叶红著, 叶红主编, 叶红) (z-library.sk, 1lib.sk, z-lib.sk).pdf": {
-          "sec": 0,
+          "sec": 2,
           "from": 1,
-          "to": 0.9545454545454546
+          "to": 0.8857142857142857
+        },
+        "书籍/图解HTTP (上野宣) (z-library.sk, 1lib.sk, z-lib.sk)(2).pdf": {
+          "sec": 0,
+          "from": 0.005434782608695652,
+          "to": 0.005988023952095809
         }
       }
-    }
+    },
+    "readerSetTab": "page",
+    "mobileFullscreen": true
   },
   "progressBackups": {
     "书籍/Redis开发与运维 (付磊 张益军) (z-library.sk_ 1lib.sk_ z-lib.sk)(1).epub": [
@@ -114,6 +126,12 @@
         "percent": 0,
         "lastRead": 1795712380721,
         "ts": 1795712396627
+      },
+      {
+        "pct": 0.04132231404958678,
+        "percent": 4,
+        "lastRead": 1795712396627,
+        "ts": 1795712748844
       }
     ],
     "书籍/走进职场英语写作 第2版 (叶红著, 叶红主编, 叶红) (z-library.sk, 1lib.sk, z-lib.sk).pdf": [
@@ -122,6 +140,14 @@
         "percent": 95,
         "lastRead": 1789815074794,
         "ts": 1795712435099
+      }
+    ],
+    "书籍/图解HTTP (上野宣) (z-library.sk, 1lib.sk, z-lib.sk)(2).pdf": [
+      {
+        "pct": 0,
+        "percent": 0,
+        "lastRead": 1795712617086,
+        "ts": 1795712633702
       }
     ]
   },
@@ -173,5 +199,5 @@
       }
     ]
   },
-  "lastBookPath": "书籍/走进职场英语写作 第2版 (叶红著, 叶红主编, 叶红) (z-library.sk, 1lib.sk, z-lib.sk).pdf"
+  "lastBookPath": "书籍/图解HTTP (上野宣) (z-library.sk, 1lib.sk, z-lib.sk)(2).pdf"
 }

@@ -6,15 +6,21 @@
     "block": 0
   },
   "书籍/走进职场英语写作 第2版 (叶红著, 叶红主编, 叶红) (z-library.sk, 1lib.sk, z-lib.sk).pdf": {
-    "pct": 0.9545454545454546,
-    "percent": 95,
-    "lastRead": 1795712473345,
+    "pct": 0.8857142857142857,
+    "percent": 89,
+    "lastRead": 1795712537643,
     "block": 0
   },
   "书籍/Redis开发与运维 (付磊 张益军) (z-library.sk_ 1lib.sk_ z-lib.sk)(1).epub": {
-    "pct": 0.04132231404958678,
-    "percent": 4,
-    "lastRead": 1795712396627,
-    "block": 485
+    "pct": 0.04604051565377532,
+    "percent": 5,
+    "lastRead": 1795712753585,
+    "block": 522
+  },
+  "书籍/图解HTTP (上野宣) (z-library.sk, 1lib.sk, z-lib.sk)(2).pdf": {
+    "pct": 0.005988023952095809,
+    "percent": 1,
+    "lastRead": 1795712757834,
+    "block": 1
   }
 }
