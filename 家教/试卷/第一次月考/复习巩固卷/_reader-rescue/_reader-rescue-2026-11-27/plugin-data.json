@@ -1,0 +1,240 @@
+{
+  "settings": {
+    "language": "zh",
+    "booksFolder": "",
+    "noteTemplate": "",
+    "notesFolder": "",
+    "bookNotesFolder": "",
+    "autoBookNote": false,
+    "quotesToBookNote": false,
+    "dataFolder": "",
+    "bookTemplates": {},
+    "exportColors": true,
+    "theme": "auto",
+    "libTheme": "auto",
+    "fontSize": 18,
+    "fontFamily": "georgia",
+    "lineHeight": 1.8,
+    "columns": "1",
+    "textAlign": "left",
+    "vAlign": "top",
+    "translateEnabled": false,
+    "translateTo": "ru",
+    "bookNoteLinks": {},
+    "bookNotePrompted": {
+      "书籍/Redis开发与运维 (付磊 张益军) (z-library.sk_ 1lib.sk_ z-lib.sk)(1).epub": true,
+      "书籍/走进职场英语写作 第2版 (叶红著, 叶红主编, 叶红) (z-library.sk, 1lib.sk, z-lib.sk).pdf": true,
+      "书籍/图解HTTP (上野宣) (z-library.sk, 1lib.sk, z-lib.sk)(2).pdf": true,
+      "家教/教辅/巅峰训练-完形填空与阅读理解(八年级)`2026（答案）.pdf": true,
+      "家教/试卷/第一次月考/复习巩固卷/试卷二 · 迁移检测卷.pdf": true,
+      "书籍/软件设计师考试大纲 (2018) (全国计算机专业技术资格考试办公室) (z-library.sk, 1lib.sk, z-lib.sk).pdf": true
+    },
+    "coverFits": {},
+    "syncMode": "auto",
+    "pdfShowFiguresOnTextPages": true,
+    "libCoverSize": 176,
+    "libCategory": "folder:家教/试卷",
+    "readerAdvOpen": false,
+    "readerHistOpen": false,
+    "askNoteTitle": true,
+    "shortNoteTitles": true,
+    "defaultHlColor": "yellow",
+    "hlBarComment": true,
+    "bookTags": {},
+    "navMode": "click",
+    "timerEnabled": false,
+    "dailyGoalMin": 15,
+    "readingLog": {
+      "2026-11-27": 0
+    },
+    "lifetimeSeconds": 2,
+    "immersive": true,
+    "mobileTopInset": 0,
+    "reopenBookOnStart": true,
+    "onboarded": true,
+    "promptedRepaired": true,
+    "figuresShownByDefault": true,
+    "einkMode": false,
+    "aiEnabled": false,
+    "aiProvider": "eltonlabs",
+    "aiKey": "",
+    "aiModel": "",
+    "aiBase": "",
+    "aiInto": "русском",
+    "ttsVoice": "Puck",
+    "pdfCache": true,
+    "desktopNoBars": false,
+    "bookBacklinks": true,
+    "syncCommentsFromNote": true,
+    "syncDeleteToNote": false,
+    "timeLeft": true,
+    "readWpm": 180,
+    "vocabEnabled": false,
+    "vocabFile": "",
+    "vocabTarget": "auto",
+    "dailyLog": false,
+    "aiRecap": true,
+    "keysInSecretStorage": false,
+    "pageMargin": "normal",
+    "paraSpacing": 0.75,
+    "ttsRate": 1,
+    "ttsKey": "",
+    "aiSystem": "",
+    "languagePicked": false,
+    "readMode": "scroll",
+    "pageTurnAnimation": true,
+    "progressToFrontmatter": false,
+    "quoteTemplate": "",
+    "quoteBacklinks": true,
+    "quoteBacklinkLabel": "",
+    "quoteChapterHeadings": true,
+    "noteOpenMode": "split",
+    "maxLineCh": 0,
+    "notesNextToBook": false,
+    "perDevice": false,
+    "deviceProfiles": {},
+    "lastSeenVersion": "4.1.1",
+    "whatsNewNote": false,
+    "rescueBackups": true,
+    "_mig32": true,
+    "ttsEnabled": false,
+    "readingDays": {
+      "2026-11-27": {
+        "书籍/Redis开发与运维 (付磊 张益军) (z-library.sk_ 1lib.sk_ z-lib.sk)(1).epub": {
+          "sec": 0,
+          "from": 0.002066115702479339,
+          "to": 0.04419889502762431
+        },
+        "书籍/走进职场英语写作 第2版 (叶红著, 叶红主编, 叶红) (z-library.sk, 1lib.sk, z-lib.sk).pdf": {
+          "sec": 2,
+          "from": 1,
+          "to": 0.8857142857142857
+        },
+        "书籍/图解HTTP (上野宣) (z-library.sk, 1lib.sk, z-lib.sk)(2).pdf": {
+          "sec": 0,
+          "from": 0.005434782608695652,
+          "to": 0.25149700598802394
+        },
+        "家教/教辅/巅峰训练-完形填空与阅读理解(八年级)`2026（答案）.pdf": {
+          "sec": 0,
+          "from": 0.08333333333333333,
+          "to": 0.4166666666666667
+        },
+        "家教/试卷/第一次月考/复习巩固卷/试卷二 · 迁移检测卷.pdf": {
+          "sec": 0,
+          "from": 0.4,
+          "to": 1
+        }
+      }
+    },
+    "readerSetTab": "page",
+    "mobileFullscreen": true
+  },
+  "progressBackups": {
+    "书籍/Redis开发与运维 (付磊 张益军) (z-library.sk_ 1lib.sk_ z-lib.sk)(1).epub": [
+      {
+        "pct": 0.002066115702479339,
+        "percent": 0,
+        "lastRead": 1795712380721,
+        "ts": 1795712396627
+      },
+      {
+        "pct": 0.04132231404958678,
+        "percent": 4,
+        "lastRead": 1795712396627,
+        "ts": 1795712748844
+      }
+    ],
+    "书籍/图解HTTP (上野宣) (z-library.sk, 1lib.sk, z-lib.sk)(2).pdf": [
+      {
+        "pct": 0,
+        "percent": 0,
+        "lastRead": 1795712617086,
+        "ts": 1795712633702
+      },
+      {
+        "pct": 0.059880239520958084,
+        "percent": 6,
+        "lastRead": 1795712812587,
+        "ts": 1795712816930
+      },
+      {
+        "pct": 0.029940119760479042,
+        "percent": 3,
+        "lastRead": 1795712849977,
+        "ts": 1795712850193
+      }
+    ],
+    "家教/教辅/巅峰训练-完形填空与阅读理解(八年级)`2026（答案）.pdf": [
+      {
+        "pct": 0.08333333333333333,
+        "percent": 8,
+        "lastRead": 1795712881466,
+        "ts": 1795712885649
+      },
+      {
+        "pct": 0,
+        "percent": 0,
+        "lastRead": 1795712885649,
+        "ts": 1795712887474
+      }
+    ],
+    "家教/试卷/第一次月考/复习巩固卷/试卷二 · 迁移检测卷.pdf": [
+      {
+        "pct": 0.4,
+        "percent": 40,
+        "lastRead": 1795712914032,
+        "ts": 1795712942192
+      }
+    ]
+  },
+  "highlightsBackups": {
+    "书籍/Redis开发与运维 (付磊 张益军) (z-library.sk_ 1lib.sk_ z-lib.sk)(1).epub": [
+      {
+        "ts": 1795712395393,
+        "count": 1,
+        "sig": "hmwxssnxxjdq7",
+        "items": [
+          {
+            "id": "hmwxssnxxjdq7",
+            "color": "purple",
+            "text": "能。表1-2中分别列出这",
+            "block": 478,
+            "occ": 0,
+            "pre": "、可以检测和修复Redis的持久化文件，还可以检测Redis的性",
+            "post": "些可执行文件的说明。",
+            "created": 1795712395317
+          }
+        ]
+      },
+      {
+        "ts": 1795712401400,
+        "count": 2,
+        "sig": "hmwxssnxxjdq7,hmwxsssk4rcpx",
+        "items": [
+          {
+            "id": "hmwxssnxxjdq7",
+            "color": "purple",
+            "text": "能。表1-2中分别列出这",
+            "block": 478,
+            "occ": 0,
+            "pre": "、可以检测和修复Redis的持久化文件，还可以检测Redis的性",
+            "post": "些可执行文件的说明。",
+            "created": 1795712395317
+          },
+          {
+            "id": "hmwxsssk4rcpx",
+            "color": "pink",
+            "text": "redis/redis.conf中，那",
+            "block": 495,
+            "occ": 0,
+            "pre": "将配置写到指定文件里，例如我们将配置写到了/opt/",
+            "post": "么只需要执行如下命令即可启动Redis：",
+            "created": 1795712401300
+          }
+        ]
+      }
+    ]
+  },
+  "lastBookPath": "家教/试卷/第一次月考/复习巩固卷/试卷二 · 迁移检测卷.pdf"
+}

@@ -24,15 +24,16 @@
     "bookNotePrompted": {
       "书籍/Redis开发与运维 (付磊 张益军) (z-library.sk_ 1lib.sk_ z-lib.sk)(1).epub": true,
       "书籍/走进职场英语写作 第2版 (叶红著, 叶红主编, 叶红) (z-library.sk, 1lib.sk, z-lib.sk).pdf": true,
-      "书籍/图解HTTP (上野宣) (z-library.sk, 1lib.sk, z-lib.sk)(2).pdf": true
+      "书籍/图解HTTP (上野宣) (z-library.sk, 1lib.sk, z-lib.sk)(2).pdf": true,
+      "家教/教辅/巅峰训练-完形填空与阅读理解(八年级)`2026（答案）.pdf": true,
+      "家教/试卷/第一次月考/复习巩固卷/试卷二 · 迁移检测卷.pdf": true,
+      "书籍/软件设计师考试大纲 (2018) (全国计算机专业技术资格考试办公室) (z-library.sk, 1lib.sk, z-lib.sk).pdf": true
     },
-    "coverFits": {
-      "书籍/走进职场英语写作 第2版 (叶红著, 叶红主编, 叶红) (z-library.sk, 1lib.sk, z-lib.sk).pdf": "fill"
-    },
+    "coverFits": {},
     "syncMode": "auto",
     "pdfShowFiguresOnTextPages": true,
     "libCoverSize": 176,
-    "libCategory": "status:reading",
+    "libCategory": "all",
     "readerAdvOpen": false,
     "readerHistOpen": false,
     "askNoteTitle": true,
@@ -102,7 +103,7 @@
         "书籍/Redis开发与运维 (付磊 张益军) (z-library.sk_ 1lib.sk_ z-lib.sk)(1).epub": {
           "sec": 0,
           "from": 0.002066115702479339,
-          "to": 0.04604051565377532
+          "to": 0.04419889502762431
         },
         "书籍/走进职场英语写作 第2版 (叶红著, 叶红主编, 叶红) (z-library.sk, 1lib.sk, z-lib.sk).pdf": {
           "sec": 2,
@@ -112,7 +113,22 @@
         "书籍/图解HTTP (上野宣) (z-library.sk, 1lib.sk, z-lib.sk)(2).pdf": {
           "sec": 0,
           "from": 0.005434782608695652,
-          "to": 0.005988023952095809
+          "to": 0.25149700598802394
+        },
+        "家教/教辅/巅峰训练-完形填空与阅读理解(八年级)`2026（答案）.pdf": {
+          "sec": 0,
+          "from": 0.08333333333333333,
+          "to": 0.4166666666666667
+        },
+        "家教/试卷/第一次月考/复习巩固卷/试卷二 · 迁移检测卷.pdf": {
+          "sec": 0,
+          "from": 0.4,
+          "to": 1
+        },
+        "书籍/软件设计师考试大纲 (2018) (全国计算机专业技术资格考试办公室) (z-library.sk, 1lib.sk, z-lib.sk).pdf": {
+          "sec": 0,
+          "from": 0.02127659574468085,
+          "to": 0.047619047619047616
         }
       }
     },
@@ -134,20 +150,66 @@
         "ts": 1795712748844
       }
     ],
-    "书籍/走进职场英语写作 第2版 (叶红著, 叶红主编, 叶红) (z-library.sk, 1lib.sk, z-lib.sk).pdf": [
-      {
-        "pct": 0.9545454545454546,
-        "percent": 95,
-        "lastRead": 1789815074794,
-        "ts": 1795712435099
-      }
-    ],
     "书籍/图解HTTP (上野宣) (z-library.sk, 1lib.sk, z-lib.sk)(2).pdf": [
       {
         "pct": 0,
         "percent": 0,
         "lastRead": 1795712617086,
         "ts": 1795712633702
+      },
+      {
+        "pct": 0.059880239520958084,
+        "percent": 6,
+        "lastRead": 1795712812587,
+        "ts": 1795712816930
+      },
+      {
+        "pct": 0.029940119760479042,
+        "percent": 3,
+        "lastRead": 1795712849977,
+        "ts": 1795712850193
+      }
+    ],
+    "家教/教辅/巅峰训练-完形填空与阅读理解(八年级)`2026（答案）.pdf": [
+      {
+        "pct": 0.08333333333333333,
+        "percent": 8,
+        "lastRead": 1795712881466,
+        "ts": 1795712885649
+      },
+      {
+        "pct": 0,
+        "percent": 0,
+        "lastRead": 1795712885649,
+        "ts": 1795712887474
+      }
+    ],
+    "家教/试卷/第一次月考/复习巩固卷/试卷二 · 迁移检测卷.pdf": [
+      {
+        "pct": 0.4,
+        "percent": 40,
+        "lastRead": 1795712914032,
+        "ts": 1795712942192
+      }
+    ],
+    "书籍/软件设计师考试大纲 (2018) (全国计算机专业技术资格考试办公室) (z-library.sk, 1lib.sk, z-lib.sk).pdf": [
+      {
+        "pct": 0.02127659574468085,
+        "percent": 2,
+        "lastRead": 1795738705572,
+        "ts": 1795738706545
+      },
+      {
+        "pct": 0.46808510638297873,
+        "percent": 47,
+        "lastRead": 1795738803250,
+        "ts": 1795748163531
+      },
+      {
+        "pct": 0.02127659574468085,
+        "percent": 2,
+        "lastRead": 1795748163531,
+        "ts": 1795748884331
       }
     ]
   },
@@ -199,5 +261,5 @@
       }
     ]
   },
-  "lastBookPath": "书籍/图解HTTP (上野宣) (z-library.sk, 1lib.sk, z-lib.sk)(2).pdf"
+  "lastBookPath": "书籍/软件设计师考试大纲 (2018) (全国计算机专业技术资格考试办公室) (z-library.sk, 1lib.sk, z-lib.sk).pdf"
 }
